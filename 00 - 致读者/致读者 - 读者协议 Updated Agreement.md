@@ -368,9 +368,9 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 [[静心|心静不下来怎么办]]？ [https://www.zhihu.com/question/59716002/answer/2264698092](https://www.zhihu.com/question/59716002/answer/2264698092)
 
-[[02 - “怎么办”系列/缺爱|缺爱的人怎么爱别人]]？ [https://www.zhihu.com/question/429147970/answer/2255833638](https://www.zhihu.com/question/429147970/answer/2255833638)
+[[缺爱 - 公益活动|缺爱的人怎么爱别人]]？ [https://www.zhihu.com/question/429147970/answer/2255833638](https://www.zhihu.com/question/429147970/answer/2255833638)
 
-我需要ta怎么办？ [https://www.zhihu.com/question/446705832/answer/2098265920](https://www.zhihu.com/question/446705832/answer/2098265920)
+[[我需要ta|我需要ta怎么办]]？ [https://www.zhihu.com/question/446705832/answer/2098265920](https://www.zhihu.com/question/446705832/answer/2098265920)
 
 害怕成为笨蛋怎么办？ [https://www.zhihu.com/question/496457049/answer/2205266868](https://www.zhihu.com/question/496457049/answer/2205266868)
 
