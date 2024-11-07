@@ -358,17 +358,17 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 [[克服自卑|自卑怎么办]]？ [https://www.zhihu.com/question/20694013/answer/1940584003](https://www.zhihu.com/question/20694013/answer/1940584003)
 
-失去了精神支柱怎么办? [https://www.zhihu.com/question/34842419/answer/2301114752](https://www.zhihu.com/question/34842419/answer/2301114752)
+[[精神支柱|失去了精神支柱怎么办]]? [https://www.zhihu.com/question/34842419/answer/2301114752](https://www.zhihu.com/question/34842419/answer/2301114752)
 
-性格软弱怎么办？ [https://www.zhihu.com/question/38555974/answer/2274909971](https://www.zhihu.com/question/38555974/answer/2274909971)
+[[性格软弱|性格软弱怎么办]]？ [https://www.zhihu.com/question/38555974/answer/2274909971](https://www.zhihu.com/question/38555974/answer/2274909971)
 
-孤独怎么办？ [https://www.zhihu.com/question/296898800/answer/2268747553](https://www.zhihu.com/question/296898800/answer/2268747553)
+[[克服孤独|孤独怎么办]]？ [https://www.zhihu.com/question/296898800/answer/2268747553](https://www.zhihu.com/question/296898800/answer/2268747553)
 
-觉得周围人幼稚怎么办？[https://www.zhihu.com/question/20864118/answer/2266141860](https://www.zhihu.com/question/20864118/answer/2266141860)
+[[幼稚|觉得周围人幼稚怎么办]]？[https://www.zhihu.com/question/20864118/answer/2266141860](https://www.zhihu.com/question/20864118/answer/2266141860)
 
-心静不下来怎么办？ [https://www.zhihu.com/question/59716002/answer/2264698092](https://www.zhihu.com/question/59716002/answer/2264698092)
+[[静心|心静不下来怎么办]]？ [https://www.zhihu.com/question/59716002/answer/2264698092](https://www.zhihu.com/question/59716002/answer/2264698092)
 
-缺爱的人怎么爱别人？ [https://www.zhihu.com/question/429147970/answer/2255833638](https://www.zhihu.com/question/429147970/answer/2255833638)
+[[02 - “怎么办”系列/缺爱|缺爱的人怎么爱别人]]？ [https://www.zhihu.com/question/429147970/answer/2255833638](https://www.zhihu.com/question/429147970/answer/2255833638)
 
 我需要ta怎么办？ [https://www.zhihu.com/question/446705832/answer/2098265920](https://www.zhihu.com/question/446705832/answer/2098265920)
 
