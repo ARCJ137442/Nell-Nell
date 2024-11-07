@@ -322,25 +322,25 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 怎么[[宽恕]]一个人？ [https://www.zhihu.com/question/20838203/answer/1918000297](https://www.zhihu.com/question/20838203/answer/1918000297)
 
-怎么变得更强大? - [https://www.zhihu.com/question/429634067/answer/1937213068](https://www.zhihu.com/question/429634067/answer/1937213068)
+[[变强大|怎么变得更强大]]? - [https://www.zhihu.com/question/429634067/answer/1937213068](https://www.zhihu.com/question/429634067/answer/1937213068)
 
-怎么避免看不起人？ [https://www.zhihu.com/question/26828496/answer/2028561601](https://www.zhihu.com/question/26828496/answer/2028561601)
+[[避免轻看人|怎么避免看不起人]]？ [https://www.zhihu.com/question/26828496/answer/2028561601](https://www.zhihu.com/question/26828496/answer/2028561601)
 
-怎么和留守儿童沟通？ [https://www.zhihu.com/question/301600967/answer/2112582522](https://www.zhihu.com/question/301600967/answer/2112582522)
+怎么和[[留守儿童沟通]]？ [https://www.zhihu.com/question/301600967/answer/2112582522](https://www.zhihu.com/question/301600967/answer/2112582522)
 
-怎么克服心中恐惧？ [https://www.zhihu.com/question/26967741/answer/1641143275](https://www.zhihu.com/question/26967741/answer/1641143275)
+[[克服恐惧|怎么克服心中恐惧]]？ [https://www.zhihu.com/question/26967741/answer/1641143275](https://www.zhihu.com/question/26967741/answer/1641143275)
 
-怎么变得更加耐心？ [https://www.zhihu.com/question/335625154/answer/1608382649](https://www.zhihu.com/question/335625154/answer/1608382649)
+[[增长耐心|怎么变得更加耐心]]？ [https://www.zhihu.com/question/335625154/answer/1608382649](https://www.zhihu.com/question/335625154/answer/1608382649)
 
-万念俱灰怎么办？ [https://www.zhihu.com/question/309145061/answer/1602715659](https://www.zhihu.com/question/309145061/answer/1602715659)
+[[万念俱灰]]怎么办？ [https://www.zhihu.com/question/309145061/answer/1602715659](https://www.zhihu.com/question/309145061/answer/1602715659)
 
-怎么对事物进行归因？ [https://www.zhihu.com/question/65226580/answer/2307605443](https://www.zhihu.com/question/65226580/answer/2307605443)
+怎么对事物进行[[归因]]？ [https://www.zhihu.com/question/65226580/answer/2307605443](https://www.zhihu.com/question/65226580/answer/2307605443)
 
-怎么检验出于爱的行为？[https://www.zhihu.com/question/441688567/answer/1708886796](https://www.zhihu.com/question/441688567/answer/1708886796)
+[[爱的自检|怎么检验出于爱的行为]]？[https://www.zhihu.com/question/441688567/answer/1708886796](https://www.zhihu.com/question/441688567/answer/1708886796)
 
-怎么与孩子谈论“贫穷”？ [https://www.zhihu.com/question/296333267/answer/1498729920](https://www.zhihu.com/question/296333267/answer/1498729920)
+怎么与孩子[[谈论“贫穷”]]？ [https://www.zhihu.com/question/296333267/answer/1498729920](https://www.zhihu.com/question/296333267/answer/1498729920)
 
-怎么建立课堂秩序？[https://www.zhihu.com/question/300244076/answer/1488571786](https://www.zhihu.com/question/300244076/answer/1488571786)
+[[课堂秩序管理|怎么建立课堂秩序]]？[https://www.zhihu.com/question/300244076/answer/1488571786](https://www.zhihu.com/question/300244076/answer/1488571786)
 
 怎么辨认身边的聪明人？ [https://www.zhihu.com/question/28484672/answer/1091110313](https://www.zhihu.com/question/28484672/answer/1091110313)
 

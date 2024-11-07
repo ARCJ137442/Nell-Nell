@@ -149,5 +149,13 @@
       ],
       "key": "["
     }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Delete"
+    }
   ]
 }
