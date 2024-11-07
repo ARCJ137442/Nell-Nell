@@ -394,19 +394,19 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 [[落在实处|怎么让对方感受更多爱]]？ [https://www.zhihu.com/question/456788429/answer/1858366787](https://www.zhihu.com/question/456788429/answer/1858366787)
 
-爱让人痛苦怎么办？ [https://www.zhihu.com/question/418006057/answer/1828158537](https://www.zhihu.com/question/418006057/answer/1828158537)
+[[爱得痛苦|爱让人痛苦怎么办]]？ [https://www.zhihu.com/question/418006057/answer/1828158537](https://www.zhihu.com/question/418006057/answer/1828158537)
 
-亲人病重怎么办？ [https://www.zhihu.com/question/56875964/answer/1778203708](https://www.zhihu.com/question/56875964/answer/1778203708)
+[[亲人病重|亲人病重怎么办]]？ [https://www.zhihu.com/question/56875964/answer/1778203708](https://www.zhihu.com/question/56875964/answer/1778203708)
 
-忘不掉自己喜欢的人怎么办？ [https://www.zhihu.com/question/441535705/answer/1735536818](https://www.zhihu.com/question/441535705/answer/1735536818)
+[[莫失莫忘|忘不掉自己喜欢的人怎么办]]？ [https://www.zhihu.com/question/441535705/answer/1735536818](https://www.zhihu.com/question/441535705/answer/1735536818)
 
-男朋友没通过测试怎么办？ [https://www.zhihu.com/question/351858266/answer/1712764924](https://www.zhihu.com/question/351858266/answer/1712764924)
+[[感情测试|男朋友没通过测试怎么办]]？ [https://www.zhihu.com/question/351858266/answer/1712764924](https://www.zhihu.com/question/351858266/answer/1712764924)
 
-玻璃心怎么办？ [https://www.zhihu.com/question/33553786/answer/1365971345](https://www.zhihu.com/question/33553786/answer/1365971345)
+[[玻璃心 - 敌意归因|玻璃心怎么办]]？ [https://www.zhihu.com/question/33553786/answer/1365971345](https://www.zhihu.com/question/33553786/answer/1365971345)
 
-情商低怎么办？[https://www.zhihu.com/question/388178104/answer/1321428721](https://www.zhihu.com/question/388178104/answer/1321428721)
+[[情商低|情商低怎么办]]？[https://www.zhihu.com/question/388178104/answer/1321428721](https://www.zhihu.com/question/388178104/answer/1321428721)
 
-农村光棍怎么办？ [https://www.zhihu.com/question/327908269/answer/930772547](https://www.zhihu.com/question/327908269/answer/930772547)
+[[农村男性的出路|农村光棍怎么办]]？ [https://www.zhihu.com/question/327908269/answer/930772547](https://www.zhihu.com/question/327908269/answer/930772547)
 
 欠钱不还怎么办? [https://www.zhihu.com/question/302015138/answer/893452852](https://www.zhihu.com/question/302015138/answer/893452852)
 

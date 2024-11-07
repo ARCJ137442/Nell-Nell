@@ -137,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "落在实处",
+                "query": "男性，现在最首要的问题怕还不是结婚，而是如何调整三观适应时代，先独自踏实稳健地把日子过好，接下来感情问题才不会太差。",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -237,10 +237,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "07ccfb11f6a6a8c4",
+  "active": "cc98ae3a7378d96c",
   "lastOpenFiles": [
-    "09 - 简答/落在实处.md",
+    "02 - “怎么办”系列/莫失莫忘.md",
     "00 - 致读者/致读者 - 读者协议 Updated Agreement.md",
+    "09 - 简答/落在实处.md",
     "02 - “怎么办”系列/走到一起.md",
     "02 - “怎么办”系列/无常.md",
     "02 - “怎么办”系列/穿搭.md",
@@ -264,7 +265,6 @@
     "orphaned files output.md",
     "02 - “怎么办”系列/宽恕.md",
     "02 - “怎么办”系列/举报.md",
-    "02 - “怎么办”系列/教授感恩.md",
     "转载授权/转载授权_NellNell.PNG"
   ]
 }
