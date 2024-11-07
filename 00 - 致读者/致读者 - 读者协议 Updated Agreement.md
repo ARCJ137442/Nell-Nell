@@ -296,31 +296,31 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 [[教授感恩|怎么让孩子懂得感恩]]？ [https://www.zhihu.com/question/532753302/answer/2498274396](https://www.zhihu.com/question/532753302/answer/2498274396)
 
-怎么保存生鲜蔬菜？[https://www.zhihu.com/question/346306026/answer/2436848037](https://www.zhihu.com/question/346306026/answer/2436848037)
+怎么[[保存生鲜蔬菜]]？[https://www.zhihu.com/question/346306026/answer/2436848037](https://www.zhihu.com/question/346306026/answer/2436848037)
 
-怎么举报？[https://www.zhihu.com/question/375078701/answer/1059600808](https://www.zhihu.com/question/375078701/answer/1059600808)
+怎么[[举报]]？[https://www.zhihu.com/question/375078701/answer/1059600808](https://www.zhihu.com/question/375078701/answer/1059600808)
 
-怎么帮助人？ [https://www.zhihu.com/question/463542383/answer/2328814044](https://www.zhihu.com/question/463542383/answer/2328814044)
+怎么帮[[助人]]？ [https://www.zhihu.com/question/463542383/answer/2328814044](https://www.zhihu.com/question/463542383/answer/2328814044)
 
-怎么说实话？ [https://www.zhihu.com/question/289632990/answer/2048173451](https://www.zhihu.com/question/289632990/answer/2048173451)
+[[真话|怎么说实话]]？ [https://www.zhihu.com/question/289632990/answer/2048173451](https://www.zhihu.com/question/289632990/answer/2048173451)
 
-怎么表达爱？ [https://www.zhihu.com/question/279024049/answer/2032296855](https://www.zhihu.com/question/279024049/answer/2032296855)
+怎么[[表达爱]]？ [https://www.zhihu.com/question/279024049/answer/2032296855](https://www.zhihu.com/question/279024049/answer/2032296855)
 
-怎么赞美人？ [https://www.zhihu.com/question/20667141/answer/1876948754](https://www.zhihu.com/question/20667141/answer/1876948754)
+怎么[[赞美|赞美人]]？ [https://www.zhihu.com/question/20667141/answer/1876948754](https://www.zhihu.com/question/20667141/answer/1876948754)
 
-怎么戒掉自慰？ [https://www.zhihu.com/question/333984852/answer/2026009688](https://www.zhihu.com/question/333984852/answer/2026009688)
+怎么[[戒掉自慰]]？ [https://www.zhihu.com/question/333984852/answer/2026009688](https://www.zhihu.com/question/333984852/answer/2026009688)
 
-怎么算负责任？ [https://www.zhihu.com/question/491309857/answer/2161628913](https://www.zhihu.com/question/491309857/answer/2161628913)
+怎么算[[负责任]]？ [https://www.zhihu.com/question/491309857/answer/2161628913](https://www.zhihu.com/question/491309857/answer/2161628913)
 
-怎么做饭省事？ [https://www.zhihu.com/question/22903687/answer/1897448672](https://www.zhihu.com/question/22903687/answer/1897448672)
+[[省时烹饪|怎么做饭省事]]？ [https://www.zhihu.com/question/22903687/answer/1897448672](https://www.zhihu.com/question/22903687/answer/1897448672)
 
-怎么原谅父母？[https://www.zhihu.com/question/28356478/answer/810670391](https://www.zhihu.com/question/28356478/answer/810670391)
+怎么[[原谅父母]]？[https://www.zhihu.com/question/28356478/answer/810670391](https://www.zhihu.com/question/28356478/answer/810670391)
 
-怎么对待“催生”？ [https://www.zhihu.com/question/286067249/answer/2130274653](https://www.zhihu.com/question/286067249/answer/2130274653)
+怎么对待“[[催生]]”？ [https://www.zhihu.com/question/286067249/answer/2130274653](https://www.zhihu.com/question/286067249/answer/2130274653)
 
-怎么对付谣言？ [https://www.zhihu.com/question/422682440/answer/1491748419](https://www.zhihu.com/question/422682440/answer/1491748419)
+怎么对付[[谣言]]？ [https://www.zhihu.com/question/422682440/answer/1491748419](https://www.zhihu.com/question/422682440/answer/1491748419)
 
-怎么宽恕一个人？ [https://www.zhihu.com/question/20838203/answer/1918000297](https://www.zhihu.com/question/20838203/answer/1918000297)
+怎么[[宽恕]]一个人？ [https://www.zhihu.com/question/20838203/answer/1918000297](https://www.zhihu.com/question/20838203/answer/1918000297)
 
 怎么变得更强大? - [https://www.zhihu.com/question/429634067/answer/1937213068](https://www.zhihu.com/question/429634067/answer/1937213068)
 

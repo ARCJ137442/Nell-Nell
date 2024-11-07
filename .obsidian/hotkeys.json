@@ -90,22 +90,6 @@
       "key": "F"
     }
   ],
-  "app:toggle-right-sidebar": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "["
-    }
-  ],
-  "app:toggle-left-sidebar": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "]"
-    }
-  ],
   "window:reset-zoom": [
     {
       "modifiers": [
@@ -148,6 +132,22 @@
         "Mod"
       ],
       "key": "F"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "]"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
     }
   ]
 }
