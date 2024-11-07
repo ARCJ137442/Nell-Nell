@@ -372,27 +372,27 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 [[我需要ta|我需要ta怎么办]]？ [https://www.zhihu.com/question/446705832/answer/2098265920](https://www.zhihu.com/question/446705832/answer/2098265920)
 
-害怕成为笨蛋怎么办？ [https://www.zhihu.com/question/496457049/answer/2205266868](https://www.zhihu.com/question/496457049/answer/2205266868)
+[[笨蛋|害怕成为笨蛋怎么办]]？ [https://www.zhihu.com/question/496457049/answer/2205266868](https://www.zhihu.com/question/496457049/answer/2205266868)
 
-父母不爱自己怎么办？ [https://www.zhihu.com/question/31473116/answer/2189477071](https://www.zhihu.com/question/31473116/answer/2189477071)
+[[父母不爱|父母不爱自己怎么办]]？ [https://www.zhihu.com/question/31473116/answer/2189477071](https://www.zhihu.com/question/31473116/answer/2189477071)
 
-目的性太强怎么办？ [https://www.zhihu.com/question/30101043/answer/1884925432](https://www.zhihu.com/question/30101043/answer/1884925432)
+[[目的性太强|目的性太强怎么办]]？ [https://www.zhihu.com/question/30101043/answer/1884925432](https://www.zhihu.com/question/30101043/answer/1884925432)
 
-总想得到别人的认可怎样办？ [https://www.zhihu.com/question/30584023/answer/2179657542](https://www.zhihu.com/question/30584023/answer/2179657542)
+[[认可|总想得到别人的认可怎样办总想得到别人的认可怎样办]]？ [https://www.zhihu.com/question/30584023/answer/2179657542](https://www.zhihu.com/question/30584023/answer/2179657542)
 
-精神寄托不可能实现怎么办? [https://www.zhihu.com/question/485146595/answer/2107325411](https://www.zhihu.com/question/485146595/answer/2107325411)
+[[无常|精神寄托不可能实现怎么办]]? [https://www.zhihu.com/question/485146595/answer/2107325411](https://www.zhihu.com/question/485146595/answer/2107325411)
 
-人与人之间怎样才能互信？ [https://www.zhihu.com/question/482200684/answer/2084759891](https://www.zhihu.com/question/482200684/answer/2084759891)
+[[互信|人与人之间怎样才能互信]]？ [https://www.zhihu.com/question/482200684/answer/2084759891](https://www.zhihu.com/question/482200684/answer/2084759891)
 
-沉浸在负面情绪中怎么办？ [https://www.zhihu.com/question/26444778/answer/2008775283](https://www.zhihu.com/question/26444778/answer/2008775283)
+[[负面沉浸|沉浸在负面情绪中怎么办]]？ [https://www.zhihu.com/question/26444778/answer/2008775283](https://www.zhihu.com/question/26444778/answer/2008775283)
 
-有人抓着自己不放怎么办？ [https://www.zhihu.com/question/473144129/answer/2010421105](https://www.zhihu.com/question/473144129/answer/2010421105)
+[[抓着不放的人|有人抓着自己不放怎么办]]？ [https://www.zhihu.com/question/473144129/answer/2010421105](https://www.zhihu.com/question/473144129/answer/2010421105)
 
-两个人走不到一起怎么办？[https://www.zhihu.com/question/356770661/answer/1900773338](https://www.zhihu.com/question/356770661/answer/1900773338)
+[[02 - “怎么办”系列/走到一起|两个人走不到一起怎么办]]？[https://www.zhihu.com/question/356770661/answer/1900773338](https://www.zhihu.com/question/356770661/answer/1900773338)
 
-过于在意别人想法怎么办？[https://www.zhihu.com/question/20767147/answer/1875698064](https://www.zhihu.com/question/20767147/answer/1875698064)
+[[过分在意|过于在意别人想法怎么办]]？[https://www.zhihu.com/question/20767147/answer/1875698064](https://www.zhihu.com/question/20767147/answer/1875698064)
 
-怎么让对方感受更多爱？ [https://www.zhihu.com/question/456788429/answer/1858366787](https://www.zhihu.com/question/456788429/answer/1858366787)
+[[落在实处|怎么让对方感受更多爱]]？ [https://www.zhihu.com/question/456788429/answer/1858366787](https://www.zhihu.com/question/456788429/answer/1858366787)
 
 爱让人痛苦怎么办？ [https://www.zhihu.com/question/418006057/answer/1828158537](https://www.zhihu.com/question/418006057/answer/1828158537)
 
