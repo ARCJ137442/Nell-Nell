@@ -43,9 +43,9 @@
 
 ## 写在前面的话：
 
-[阅读须知](https://www.zhihu.com/question/264373660/answer/1812786628)
+[[致读者 - 读者协议 Updated Agreement|阅读须知]](https://www.zhihu.com/question/264373660/answer/1812786628)
 
-[读者的成全](https://www.zhihu.com/question/439145843/answer/1678697055)
+[[知乎 - 十年|读者的成全]](https://www.zhihu.com/question/439145843/answer/1678697055)
 
 ## 打地基：建立底层逻辑
 
