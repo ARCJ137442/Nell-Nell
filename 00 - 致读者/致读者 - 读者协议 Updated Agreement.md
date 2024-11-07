@@ -342,21 +342,21 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 [[课堂秩序管理|怎么建立课堂秩序]]？[https://www.zhihu.com/question/300244076/answer/1488571786](https://www.zhihu.com/question/300244076/answer/1488571786)
 
-怎么辨认身边的聪明人？ [https://www.zhihu.com/question/28484672/answer/1091110313](https://www.zhihu.com/question/28484672/answer/1091110313)
+[[辨别聪明人|怎么辨认身边的聪明人]]？ [https://www.zhihu.com/question/28484672/answer/1091110313](https://www.zhihu.com/question/28484672/answer/1091110313)
 
-男性怎样才能不幼稚？ [https://www.zhihu.com/question/45730566/answer/1471565993](https://www.zhihu.com/question/45730566/answer/1471565993)
+[[男性何时不幼稚|男性怎样才能不幼稚]]？ [https://www.zhihu.com/question/45730566/answer/1471565993](https://www.zhihu.com/question/45730566/answer/1471565993)
 
-怎么处理碎片化信息？ [https://www.zhihu.com/question/418830791/answer/1450680450](https://www.zhihu.com/question/418830791/answer/1450680450)
+[[信息碎片|怎么处理碎片化信息]]？ [https://www.zhihu.com/question/418830791/answer/1450680450](https://www.zhihu.com/question/418830791/answer/1450680450)
 
-怎么和母亲聊天？ [https://www.zhihu.com/question/415881067/answer/1423054655](https://www.zhihu.com/question/415881067/answer/1423054655)
+[[自传|怎么和母亲聊天]]？ [https://www.zhihu.com/question/415881067/answer/1423054655](https://www.zhihu.com/question/415881067/answer/1423054655)
 
-怎么穿衣搭配？ [https://www.zhihu.com/question/33433793/answer/636204032](https://www.zhihu.com/question/33433793/answer/636204032)
+[[穿搭|怎么穿衣搭配]]？ [https://www.zhihu.com/question/33433793/answer/636204032](https://www.zhihu.com/question/33433793/answer/636204032)
 
-感觉自己软弱怎么办？ [https://www.zhihu.com/question/445710150/answer/2317848626](https://www.zhihu.com/question/445710150/answer/2317848626)
+[[自觉软弱|感觉自己软弱怎么办]]？ [https://www.zhihu.com/question/445710150/answer/2317848626](https://www.zhihu.com/question/445710150/answer/2317848626)
 
-想太多怎么办？ [https://www.zhihu.com/question/463287315/answer/1987670503](https://www.zhihu.com/question/463287315/answer/1987670503)
+[[想太多|想太多怎么办]]？ [https://www.zhihu.com/question/463287315/answer/1987670503](https://www.zhihu.com/question/463287315/answer/1987670503)
 
-自卑怎么办？ [https://www.zhihu.com/question/20694013/answer/1940584003](https://www.zhihu.com/question/20694013/answer/1940584003)
+[[克服自卑|自卑怎么办]]？ [https://www.zhihu.com/question/20694013/answer/1940584003](https://www.zhihu.com/question/20694013/answer/1940584003)
 
 失去了精神支柱怎么办? [https://www.zhihu.com/question/34842419/answer/2301114752](https://www.zhihu.com/question/34842419/answer/2301114752)
 
