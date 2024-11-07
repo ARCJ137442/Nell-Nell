@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "自卑其实是一种“没有什么是我理所当然配得”的自觉。",
+                "query": "tag:#NellNell",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -223,21 +223,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc98ae3a7378d96c",
+  "active": "07ccfb11f6a6a8c4",
   "lastOpenFiles": [
-    "02 - “怎么办”系列/男性何时不幼稚.md",
-    "00 - 致读者/致读者 - 读者协议 Updated Agreement.md",
-    "02 - “怎么办”系列/幼稚.md",
+    "03 - “如何看待”系列/接受最差的一面.md",
     "02 - “怎么办”系列/戒掉自慰.md",
-    "04 - “好好活着”系列/玻璃心 - 预备通关.md",
+    "女权.md",
     "01 - “是什么”系列/改变.md",
+    "04 - “好好活着”系列/玻璃心 - 预备通关.md",
+    "00 - 致读者/致读者 - 读者协议 Updated Agreement.md",
+    "02 - “怎么办”系列/男性何时不幼稚.md",
+    "02 - “怎么办”系列/幼稚.md",
     "03 - “如何看待”系列/反智主义.md",
     "01 - “是什么”系列/挑起性别对立的目的.md",
-    "女权.md",
     "01 - “是什么”系列/反女权的火.md",
     "03 - “如何看待”系列/养娃投资.md",
     "02 - “怎么办”系列/高贵气质.md",
-    "03 - “如何看待”系列/接受最差的一面.md",
     "01 - “是什么”系列/教养.md",
     "orphaned files output.md",
     "02 - “怎么办”系列/宽恕.md",
