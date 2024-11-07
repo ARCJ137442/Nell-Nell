@@ -16,7 +16,9 @@
                 "file": "03 - “如何看待”系列/接受最差的一面.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "接受最差的一面"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "01 - “是什么”系列/改变.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "改变"
             }
           },
           {
@@ -37,10 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【本周更新】/知错.md",
+                "file": "01 - “是什么”系列/归属感.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "归属感"
             }
           }
         ],
@@ -64,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -79,7 +87,9 @@
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -87,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -95,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -118,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/知错.md",
+                "file": "01 - “是什么”系列/归属感.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +140,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "归属感 的反向链接列表"
             }
           },
           {
@@ -137,7 +153,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           }
         ],
@@ -145,19 +163,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 201.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
   "active": "07ccfb11f6a6a8c4",
   "lastOpenFiles": [
+    "00 - 致读者/致读者 - 知乎回答指路（AKA自选集）.md",
+    "00 - 致读者/普世答案.md",
+    "README.md",
+    "转载授权/转载授权_NellNell.PNG",
+    "【本周更新】/知错.md",
     "【本周更新】/防暴.md",
     "【本周更新】/焦虑.md",
     "04 - “好好活着”系列/女性的优势.md",
@@ -179,10 +202,6 @@
     "01 - “是什么”系列/表白.md",
     "【本周更新】/N/2024-05-21什么时候是表白的最佳时机？.md",
     "01 - “是什么”系列/傲气 1.md",
-    "03 - “如何看待”系列/无同情.md",
-    "02 - “怎么办”系列/性满足.md",
-    "02 - “怎么办”系列/取舍.md",
-    "02 - “怎么办”系列/学生思维.md",
-    "04 - “好好活着”系列/全力以赴.md"
+    "03 - “如何看待”系列/无同情.md"
   ]
 }
