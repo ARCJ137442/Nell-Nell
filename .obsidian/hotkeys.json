@@ -105,6 +105,13 @@
         "Shift"
       ],
       "key": "C"
+    },
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
     }
   ],
   "command-palette:open": [
