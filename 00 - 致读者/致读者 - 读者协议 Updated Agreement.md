@@ -290,11 +290,11 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 怎么[[不虚度]]高中时光？[https://www.zhihu.com/question/535019177/answer/2507371457](https://www.zhihu.com/question/535019177/answer/2507371457)
 
-对于一个网友的话无法释怀，我是不是太玻璃心了？ [https://www.zhihu.com/question/306563002/answer/2503337621](https://www.zhihu.com/question/306563002/answer/2503337621)
+[[玻璃心 - 预备通关|对于一个网友的话无法释怀，我是不是太玻璃心了？]] [https://www.zhihu.com/question/306563002/answer/2503337621](https://www.zhihu.com/question/306563002/answer/2503337621)
 
-怎么使不出力量？[https://www.zhihu.com/question/534421223/answer/2500394585](https://www.zhihu.com/question/534421223/answer/2500394585)
+怎么使不出[[力量]]？[https://www.zhihu.com/question/534421223/answer/2500394585](https://www.zhihu.com/question/534421223/answer/2500394585)
 
-怎么让孩子懂得感恩？ [https://www.zhihu.com/question/532753302/answer/2498274396](https://www.zhihu.com/question/532753302/answer/2498274396)
+[[教授感恩|怎么让孩子懂得感恩]]？ [https://www.zhihu.com/question/532753302/answer/2498274396](https://www.zhihu.com/question/532753302/answer/2498274396)
 
 怎么保存生鲜蔬菜？[https://www.zhihu.com/question/346306026/answer/2436848037](https://www.zhihu.com/question/346306026/answer/2436848037)
 
