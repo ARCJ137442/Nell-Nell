@@ -408,17 +408,17 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 [[农村男性的出路|农村光棍怎么办]]？ [https://www.zhihu.com/question/327908269/answer/930772547](https://www.zhihu.com/question/327908269/answer/930772547)
 
-欠钱不还怎么办? [https://www.zhihu.com/question/302015138/answer/893452852](https://www.zhihu.com/question/302015138/answer/893452852)
+[[欠钱不还|欠钱不还怎么办]]? [https://www.zhihu.com/question/302015138/answer/893452852](https://www.zhihu.com/question/302015138/answer/893452852)
 
-孩子很平庸怎么办？ [https://www.zhihu.com/question/341127721/answer/826140959](https://www.zhihu.com/question/341127721/answer/826140959)
+[[不平庸|孩子很平庸怎么办]]？ [https://www.zhihu.com/question/341127721/answer/826140959](https://www.zhihu.com/question/341127721/answer/826140959)
 
-后悔怎么办? [https://www.zhihu.com/question/53523367/answer/751676961](https://www.zhihu.com/question/53523367/answer/751676961)
+[[《海边的曼彻斯特》|后悔怎么办]]? [https://www.zhihu.com/question/53523367/answer/751676961](https://www.zhihu.com/question/53523367/answer/751676961)
 
-研究生和导师应该怎么相处？ [https://www.zhihu.com/question/317549452/answer/633409325](https://www.zhihu.com/question/317549452/answer/633409325)
+[[研究生与导师|研究生和导师应该怎么相处]]？ [https://www.zhihu.com/question/317549452/answer/633409325](https://www.zhihu.com/question/317549452/answer/633409325)
 
-没有遇到喜欢你的人怎么办？ [https://www.zhihu.com/question/313241934/answer/619389760](https://www.zhihu.com/question/313241934/answer/619389760)
+[[如何活|没有遇到喜欢你的人怎么办]]？ [https://www.zhihu.com/question/313241934/answer/619389760](https://www.zhihu.com/question/313241934/answer/619389760)
 
-没有生孩子的女性怎么办? [https://www.zhihu.com/question/330291827/answer/784616633](https://www.zhihu.com/question/330291827/answer/784616633)
+[[空巢期|没有生孩子的女性怎么办]]? [https://www.zhihu.com/question/330291827/answer/784616633](https://www.zhihu.com/question/330291827/answer/784616633)
 
 亲密关系中出现“动摇”怎么办？ [https://www.zhihu.com/question/495836892/answer/2257159162](https://www.zhihu.com/question/495836892/answer/2257159162)
 
