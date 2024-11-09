@@ -8,6 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "ef439ef9c29f0891",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - 致读者/致读者 - 知乎回答指路（AKA自选集）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "致读者 - 知乎回答指路（AKA自选集）"
+            }
+          },
+          {
             "id": "07ccfb11f6a6a8c4",
             "type": "leaf",
             "state": {
@@ -19,6 +33,34 @@
               },
               "icon": "lucide-file",
               "title": "致读者 - 读者协议 Updated Agreement"
+            }
+          },
+          {
+            "id": "7e81361ebf9bcf77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - “如何看待”系列/找伴侣.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "找伴侣"
+            }
+          },
+          {
+            "id": "28839be1a9650f6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - “如何看待”系列/政治性抑郁.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "政治性抑郁"
             }
           },
           {
@@ -47,20 +89,6 @@
               },
               "icon": "lucide-file",
               "title": "不婚族"
-            }
-          },
-          {
-            "id": "ef439ef9c29f0891",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - 致读者/致读者 - 知乎回答指路（AKA自选集）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "致读者 - 知乎回答指路（AKA自选集）"
             }
           },
           {
@@ -175,7 +203,8 @@
               "title": "接受最差的一面"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,7 +235,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "年初奥巴马政府宣布成立癌症研究的「登",
+                "query": "源在于对",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -217,8 +246,7 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -319,14 +347,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc98ae3a7378d96c",
+  "active": "07ccfb11f6a6a8c4",
   "lastOpenFiles": [
-    "03 - “如何看待”系列/何谓中国人.md",
-    "00 - 致读者/致读者 - 读者协议 Updated Agreement.md",
-    "03 - “如何看待”系列/有法可依.md",
-    "03 - “如何看待”系列/男女平等.md",
+    "03 - “如何看待”系列/找伴侣.md",
+    "03 - “如何看待”系列/政治性抑郁.md",
     "03 - “如何看待”系列/追爱.md",
     "03 - “如何看待”系列/不婚族.md",
+    "00 - 致读者/致读者 - 知乎回答指路（AKA自选集）.md",
+    "00 - 致读者/致读者 - 读者协议 Updated Agreement.md",
+    "03 - “如何看待”系列/理解与尊重.md",
+    "03 - “如何看待”系列/拐卖问题.md",
+    "03 - “如何看待”系列/何谓中国人.md",
+    "03 - “如何看待”系列/有法可依.md",
+    "03 - “如何看待”系列/男女平等.md",
     "05 - 圣经 & 神学/我们如同从火中抽出来的一根柴.md",
     "05 - 圣经 & 神学/圣经 - 预言.md",
     "01 - “是什么”系列/关于爱与恨的一些思考.md",
@@ -341,12 +374,7 @@
     "03 - “如何看待”系列/贫穷.md",
     "06 - 书评 & 影评/《誓血五人组》.md",
     "03 - “如何看待”系列/飞天意面教.md",
-    "03 - “如何看待”系列/拐卖问题.md",
     "05 - 圣经 & 神学/打喷嚏.md",
-    "00 - 致读者/致读者 - 知乎回答指路（AKA自选集）.md",
-    "01 - “是什么”系列/赞美苦难.md",
-    "03 - “如何看待”系列/空巢期.md",
-    "02 - “怎么办”系列/差不多就好.md",
     "转载授权/转载授权_NellNell.PNG"
   ]
 }
