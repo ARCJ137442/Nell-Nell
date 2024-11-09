@@ -646,19 +646,19 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 [[灵魂不灭|年轻的我该怎么继续活下去？]] [https://www.zhihu.com/question/533665465/answer/2495700007](https://www.zhihu.com/question/533665465/answer/2495700007)
 
-今天是范蕴若八段的忌日，已经两年了，各位有什么想说的吗？ [https://www.zhihu.com/question/541089284/answer/2562576568](https://www.zhihu.com/question/541089284/answer/2562576568)
+[[爱与被爱|今天是范蕴若八段的忌日，已经两年了，各位有什么想说的吗？]] [https://www.zhihu.com/question/541089284/answer/2562576568](https://www.zhihu.com/question/541089284/answer/2562576568)
 
-杭州千岛湖9岁失联女童遗体被找到，案件真相如何？ [https://www.zhihu.com/question/334731954/answer/748106487](https://www.zhihu.com/question/334731954/answer/748106487)
+[[留守儿童|杭州千岛湖9岁失联女童遗体被找到，案件真相如何？]] [https://www.zhihu.com/question/334731954/answer/748106487](https://www.zhihu.com/question/334731954/answer/748106487)
 
-媒体称河北寻亲男孩刘学州轻生，经抢救无效死亡，在寻亲路上他经历了怎样的心路历程？ [https://www.zhihu.com/question/513063032/answer/2322847329](https://www.zhihu.com/question/513063032/answer/2322847329)
+[[所谓家人|媒体称河北寻亲男孩刘学州轻生，经抢救无效死亡，在寻亲路上他经历了怎样的心路历程？]] [https://www.zhihu.com/question/513063032/answer/2322847329](https://www.zhihu.com/question/513063032/answer/2322847329)
 
-警方通报「25 岁摄影师鹿道森遗体被打捞上岸，已不幸离世」，具体情况如何？ [https://www.zhihu.com/question/502856388/answer/2261719080](https://www.zhihu.com/question/502856388/answer/2261719080)
+[[善待陌生人|警方通报「25 岁摄影师鹿道森遗体被打捞上岸，已不幸离世」，具体情况如何？]] [https://www.zhihu.com/question/502856388/answer/2261719080](https://www.zhihu.com/question/502856388/answer/2261719080)
 
-如何看待2020年12月15日北交大大三学生跳楼，疑似遗书称「失去人生目标」？ [https://www.zhihu.com/question/434920021/answer/1629426870](https://www.zhihu.com/question/434920021/answer/1629426870)
+[[迷羊|如何看待2020年12月15日北交大大三学生跳楼，疑似遗书称「失去人生目标」？]] [https://www.zhihu.com/question/434920021/answer/1629426870](https://www.zhihu.com/question/434920021/answer/1629426870)
 
-今天我亲爱的女儿自杀了，还有八天就是她的生日了，她在20年被确诊为双相，她是真的没有病痛了吗？ [https://www.zhihu.com/question/509331217/answer/2347067086](https://www.zhihu.com/question/509331217/answer/2347067086)
+[[真正安慰|今天我亲爱的女儿自杀了，还有八天就是她的生日了，她在20年被确诊为双相，她是真的没有病痛了吗？]] [https://www.zhihu.com/question/509331217/answer/2347067086](https://www.zhihu.com/question/509331217/answer/2347067086)
 
-如果身边不熟的人要自杀应该怎么办？ [https://www.zhihu.com/question/516216318/answer/2373062480](https://www.zhihu.com/question/516216318/answer/2373062480)
+[[救|如果身边不熟的人要自杀应该怎么办？]] [https://www.zhihu.com/question/516216318/answer/2373062480](https://www.zhihu.com/question/516216318/answer/2373062480)
 
   
 
