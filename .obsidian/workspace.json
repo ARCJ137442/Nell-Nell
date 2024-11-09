@@ -175,8 +175,7 @@
               "title": "接受最差的一面"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,7 +206,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "但是，拜登这边话音刚落地，亚美尼亚那边总理便辞职了。",
+                "query": "年初奥巴马政府宣布成立癌症研究的「登",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -240,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - “如何看待”系列/追爱.md",
+                "file": "00 - 致读者/致读者 - 读者协议 Updated Agreement.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +249,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "追爱 的反向链接列表"
+              "title": "致读者 - 读者协议 Updated Agreement 的反向链接列表"
             }
           },
           {
@@ -320,11 +319,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "368409ec3e346e06",
+  "active": "cc98ae3a7378d96c",
   "lastOpenFiles": [
-    "03 - “如何看待”系列/不婚族.md",
-    "03 - “如何看待”系列/追爱.md",
+    "03 - “如何看待”系列/何谓中国人.md",
     "00 - 致读者/致读者 - 读者协议 Updated Agreement.md",
+    "03 - “如何看待”系列/有法可依.md",
+    "03 - “如何看待”系列/男女平等.md",
+    "03 - “如何看待”系列/追爱.md",
+    "03 - “如何看待”系列/不婚族.md",
     "05 - 圣经 & 神学/我们如同从火中抽出来的一根柴.md",
     "05 - 圣经 & 神学/圣经 - 预言.md",
     "01 - “是什么”系列/关于爱与恨的一些思考.md",
@@ -345,9 +347,6 @@
     "01 - “是什么”系列/赞美苦难.md",
     "03 - “如何看待”系列/空巢期.md",
     "02 - “怎么办”系列/差不多就好.md",
-    "02 - “怎么办”系列/走到一起.md",
-    "02 - “怎么办”系列/动摇.md",
-    "04 - “好好活着”系列/玻璃心 - 预备通关.md",
     "转载授权/转载授权_NellNell.PNG"
   ]
 }
