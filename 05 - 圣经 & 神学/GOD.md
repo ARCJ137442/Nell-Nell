@@ -1,4 +1,5 @@
 # GOD
+
 [是否应该剥夺“上帝”作为“GOD”的译名？](https://www.zhihu.com/question/641165634/answer/3378710006)
 
 > Author: #NellNell

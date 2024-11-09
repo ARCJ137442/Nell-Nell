@@ -287,4 +287,4 @@
 
 ## 参考
 
-1.  [^](#ref_1_0)Margaret Steiner. “Jerusalem in the Tenth and Seventh Centuries BCE: From Administrative Town to Commercial City,” in Studies in the Archaeology of the Iron Age in Israel and Jordan (ed. Amihai Mazar; Sheffield: Sheffield Academic Press, 2001), 283.
+1. [^](#ref_1_0)Margaret Steiner. “Jerusalem in the Tenth and Seventh Centuries BCE: From Administrative Town to Commercial City,” in Studies in the Archaeology of the Iron Age in Israel and Jordan (ed. Amihai Mazar; Sheffield: Sheffield Academic Press, 2001), 283.

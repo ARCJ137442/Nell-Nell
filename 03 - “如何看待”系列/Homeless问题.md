@@ -1,4 +1,5 @@
 # Homeless问题
+
 [讲师的视频中，为什么美国花费这么多人力物力给流浪汉发食物，而不是其他方式比如解决工作？](https://www.zhihu.com/question/636091982/answer/3352777856)
 
 > Author: #NellNell

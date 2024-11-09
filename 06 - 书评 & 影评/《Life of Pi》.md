@@ -1,4 +1,5 @@
 # Life of Pi
+
 [为什么说《少年派的奇幻漂流》是一个能让人相信上帝的故事？](https://www.zhihu.com/question/23742995/answer/610198093)
 
 > Author: #NellNell

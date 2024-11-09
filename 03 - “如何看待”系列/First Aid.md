@@ -1,4 +1,5 @@
 # First Aid
+
 [如何看待山东临沂一初三学生体育课跑步时猝死？该如何避免此类事件发生？](https://www.zhihu.com/question/420423650/answer/1465502780)
 
 > Author: #NellNell

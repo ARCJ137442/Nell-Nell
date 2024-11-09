@@ -1,4 +1,5 @@
 # IVG
+
 [未来如果人类技术已经可以不需要交合就可以生孩子，男女双方有没有可能发动性别灭绝战争？](https://www.zhihu.com/question/399611313/answer/1281809536)
 
 > Author: #NellNell
@@ -41,7 +42,7 @@ IVG就完全不需要了。**这项技术可以用胚胎干细胞或诱导多能
 
 因为这项技术，完全可以创造一个【只有】女性的世界。
 
-## 题主，注意了，现在我就指给你看你想要的性别灭绝是怎么实现的：
+## 题主，注意了，现在我就指给你看你想要的性别灭绝是怎么实现的
 
 第一，通过IVG繁殖后代，不需要异性，甚至不需要第二个人。一个人完全可以提取ta自己身上的细胞先诱导成IPS细胞，再进一步转变为ta所需要的配子（卵子或精子），然后和ta自己的配子结合，就可以生成胚胎了。这一步男性和女性都可以做。
 
@@ -59,5 +60,5 @@ IVG就完全不需要了。**这项技术可以用胚胎干细胞或诱导多能
 
 ## 参考
 
-1.  [^](#ref_1_0)[Reconstitution in vitro of the entire cycle of the mouse female germ line](https://www.nature.com/articles/nature20104)
-2.  [^](#ref_2_0)[Complete Meiosis from Embryonic Stem Cell-Derived Germ Cells In Vitro](https://www.sciencedirect.com/science/article/pii/S1934590916000187)
+1. [^](#ref_1_0)[Reconstitution in vitro of the entire cycle of the mouse female germ line](https://www.nature.com/articles/nature20104)
+2. [^](#ref_2_0)[Complete Meiosis from Embryonic Stem Cell-Derived Germ Cells In Vitro](https://www.sciencedirect.com/science/article/pii/S1934590916000187)

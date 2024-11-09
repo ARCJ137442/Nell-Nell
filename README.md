@@ -6,13 +6,13 @@
 
 欢迎大家下载以供个人学习使用。
 
-- 对更多内容感兴趣同学情移步 [爱发电](https://afdian.net/a/nell_nell) [织帐篷](https://www.zhihu.com/collection/313814574) 
+- 对更多内容感兴趣同学情移步 [爱发电](https://afdian.net/a/nell_nell) [织帐篷](https://www.zhihu.com/collection/313814574)
 - 或关注Nell Nell的微信公众号**影子大地shadowlands**
 - [[致读者 - 知乎回答指路（AKA自选集）|知乎回答指路（AKA自选集）]]： [知乎回答指路（AKA自选集）](https://zhuanlan.zhihu.com/p/593309417)
 - 笔记相关APP：[idealclover - Caritas APP2.0](https://zhuanlan.zhihu.com/p/556201282)
 - 影视推荐合集： [有哪些优秀（好看）的电影电视剧推荐？](https://www.zhihu.com/question/343096396/answer/2625826293)
 - 书籍推荐合集：[有哪些值得一看的书籍?](https://www.zhihu.com/question/350870144/answer/2625827304)
-- 笔记内文章[音频版]下载： https://github.com/idealclover/Nell-Nell-Audio
+- 笔记内文章[音频版]下载： <https://github.com/idealclover/Nell-Nell-Audio>
 
 感谢作者的授权。
 
@@ -25,17 +25,18 @@
 方法一：GitHub - Sth Matters，点击Code - Download ZIP，下载后解压缩得到文件夹一个
 
 方法二：需要追更的小伙伴建议阅读一下链接内教程，学习使用Github的克隆功能来进行文档同步。
-https://zhuanlan.zhihu.com/p/380200295
+<https://zhuanlan.zhihu.com/p/380200295>
 
+##### Step 2. 自行搜索并下载Obsidian，打开后点击Setting进行基础设置
 
-##### Step 2. 自行搜索并下载Obsidian，打开后点击Setting进行基础设置：
  - Editor： Spell check
  - Core Plugins：Tag Pane, Page Preview, Starred
  - Files & Links：Automatically update internal links
  - Appearance: Theme - 建议Night Owl或者Cybertron
  - 其他设置请依个人喜好酌情处理
 
-##### Step 3. Obsidian - Open folder as Vault 
+##### Step 3. Obsidian - Open folder as Vault
+
 选择解压后的文件夹，现在你看到的就是笔记内容了。
 
 ---
@@ -43,7 +44,6 @@ https://zhuanlan.zhihu.com/p/380200295
 授权证明：
 [[转载授权_NellNell.PNG]]
 核对日期：06/08/2022
-
 
 ---
 

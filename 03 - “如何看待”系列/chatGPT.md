@@ -1,4 +1,5 @@
 # chatGPT
+
 [你觉得最近大热的 chatGPT 会取代你的工作吗？](https://www.zhihu.com/question/582834721/answer/2887416267)
 
 > Author: #NellNell

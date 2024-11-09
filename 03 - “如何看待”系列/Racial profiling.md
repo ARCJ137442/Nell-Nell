@@ -1,4 +1,5 @@
 # Racial profiling
+
 [如何看待 Emory 大学生物学教授李晓江的实验室突遭校方关闭？](https://www.zhihu.com/question/325609989/answer/715138743)
 
 > Author: #NellNell
@@ -53,4 +54,4 @@
 
 ## 参考
 
-1.  [^](#ref_1_0)[The U.S. Is Purging Chinese Cancer Researchers From Top Institutions](https://www.bloomberg.com/news/features/2019-06-13/the-u-s-is-purging-chinese-americans-from-top-cancer-research)
+1. [^](#ref_1_0)[The U.S. Is Purging Chinese Cancer Researchers From Top Institutions](https://www.bloomberg.com/news/features/2019-06-13/the-u-s-is-purging-chinese-americans-from-top-cancer-research)

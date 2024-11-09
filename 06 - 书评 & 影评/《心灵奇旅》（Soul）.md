@@ -1,4 +1,5 @@
 # 《心灵奇旅》（Soul）
+
 [如何评价皮克斯动画电影《心灵奇旅》（Soul）？](https://www.zhihu.com/question/332013569/answer/1650639983)
 
 > Author: #NellNell
@@ -121,4 +122,4 @@ G其实已经走在迷失的边缘了。他虽然还没有像那位对冲基金�
 
 ## 参考
 
-1.  [^](#ref_1_0)[Pete Docter, Pixar's Star Director, Talks about His Christian Faith](https://www.christianitytoday.com/ct/2009/mayweb-only/pete-docter-pixars-director-talks-about-christian-faith.html)
+1. [^](#ref_1_0)[Pete Docter, Pixar's Star Director, Talks about His Christian Faith](https://www.christianitytoday.com/ct/2009/mayweb-only/pete-docter-pixars-director-talks-about-christian-faith.html)

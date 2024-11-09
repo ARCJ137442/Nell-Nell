@@ -1,4 +1,5 @@
 # 宝马 MINI
+
 [宝马 MINI 再次发文道歉，称视频中老外是同事，希望给礼仪小姐姐多点宽容和空间，哪些信息值得关注？](https://www.zhihu.com/question/596884425/answer/2993941275)
 
 > Author: #NellNell

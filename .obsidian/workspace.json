@@ -118,9 +118,18 @@
               "icon": "lucide-file",
               "title": "养娃投资"
             }
+          },
+          {
+            "id": "a585d169c10e3307",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - 致读者/致读者 - 读者协议 Updated Agreement.md",
+                "file": "01 - “是什么”系列/话语权.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +203,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "致读者 - 读者协议 Updated Agreement 的反向链接列表"
+              "title": "话语权 的反向链接列表"
             }
           },
           {
@@ -230,8 +239,7 @@
               "title": "Quiet Outline"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "1657ba56615883fb",
@@ -264,11 +272,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b14ff5431d0dc1f1",
+  "active": "07ccfb11f6a6a8c4",
   "lastOpenFiles": [
+    "03 - “如何看待”系列/君子远庖厨.md",
+    "00 - 致读者/致读者 - 读者协议 Updated Agreement.md",
+    "00 - 致读者/致读者 - 知乎回答指路（AKA自选集）.md",
     "02 - “怎么办”系列/留守儿童沟通.md",
     "04 - “好好活着”系列/留守儿童.md",
-    "00 - 致读者/致读者 - 读者协议 Updated Agreement.md",
     "01 - “是什么”系列/改变.md",
     "02 - “怎么办”系列/走到一起.md",
     "03 - “如何看待”系列/不婚族.md",
@@ -286,12 +296,10 @@
     "01 - “是什么”系列/爱与理解.md",
     "01 - “是什么”系列/自律与自由.md",
     "broken links output.md",
-    "00 - 致读者/致读者 - 知乎回答指路（AKA自选集）.md",
     "01 - “是什么”系列/教养.md",
     "03 - “如何看待”系列/丧偶式育儿.md",
     "01 - “是什么”系列/性感.md",
     "01 - “是什么”系列/恋爱的意义.md",
-    "03 - “如何看待”系列/追爱.md",
     "temp.test.ipynb",
     "tempCodeRunnerFile.julia",
     "“是什么”系列",
