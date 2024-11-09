@@ -638,7 +638,7 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 [[政治性抑郁|如何看待乌克兰数学家康斯坦丁·奥尔梅佐夫自杀？]] [https://www.zhihu.com/question/523414009/answer/2404004315](https://www.zhihu.com/question/523414009/answer/2404004315)
 
-如何看待乌克兰指责俄罗斯军方在基辅屠杀 410 平民，俄方否认称是「挑衅」？真实情况如何？ [https://www.zhihu.com/question/525901706/answer/2423388246](https://www.zhihu.com/question/525901706/answer/2423388246)
+[[布查|如何看待乌克兰指责俄罗斯军方在基辅屠杀 410 平民，俄方否认称是「挑衅」？真实情况如何？]] [https://www.zhihu.com/question/525901706/answer/2423388246](https://www.zhihu.com/question/525901706/answer/2423388246)
 
   
 
