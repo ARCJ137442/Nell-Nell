@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - “怎么办”系列/走到一起.md",
+                "file": "01 - “是什么”系列/话语权.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "走到一起"
+              "title": "话语权"
             }
           },
           {
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - “怎么办”系列/走到一起.md",
+                "file": "01 - “是什么”系列/话语权.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "走到一起 的反向链接列表"
+              "title": "话语权 的反向链接列表"
             }
           },
           {
@@ -265,8 +265,8 @@
   },
   "active": "07ccfb11f6a6a8c4",
   "lastOpenFiles": [
-    "03 - “如何看待”系列/何谓中国人.md",
     "02 - “怎么办”系列/走到一起.md",
+    "03 - “如何看待”系列/何谓中国人.md",
     "03 - “如何看待”系列/婚姻的意义.md",
     "01 - “是什么”系列/话语权.md",
     "沙海拾金/走到一起.md",
