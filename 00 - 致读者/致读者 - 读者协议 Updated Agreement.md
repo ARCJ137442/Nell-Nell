@@ -578,9 +578,9 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 [[性|如何看待没有性经历的男性？]] [https://www.zhihu.com/question/459871538/answer/1997196697](https://www.zhihu.com/question/459871538/answer/1997196697)
 
-如何看待莉香坐前一班车走？ [https://www.zhihu.com/question/24694681/answer/1746836216](https://www.zhihu.com/question/24694681/answer/1746836216)
+[[《东京爱情故事》|如何看待莉香坐前一班车走？]] [https://www.zhihu.com/question/24694681/answer/1746836216](https://www.zhihu.com/question/24694681/answer/1746836216)
 
-如何看待玉娇龙跳崖？ [https://www.zhihu.com/question/30963769/answer/503433751](https://www.zhihu.com/question/30963769/answer/503433751)
+[[玉娇龙|如何看待玉娇龙跳崖？]] [https://www.zhihu.com/question/30963769/answer/503433751](https://www.zhihu.com/question/30963769/answer/503433751)
 
 如何看待男生不愿意追女生？ [https://www.zhihu.com/question/297336019/answer/621157605](https://www.zhihu.com/question/297336019/answer/621157605)
 
