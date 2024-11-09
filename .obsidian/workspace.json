@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - “是什么”系列/话语权.md",
+                "file": "00 - 致读者/致读者 - 读者协议 Updated Agreement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "话语权"
+              "title": "致读者 - 读者协议 Updated Agreement"
             }
           },
           {
@@ -160,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"https://www.zhihu.com/question/334731954/answer/748106487\"",
+                "query": "万有皆善",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - “是什么”系列/话语权.md",
+                "file": "00 - 致读者/致读者 - 读者协议 Updated Agreement.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "话语权 的反向链接列表"
+              "title": "致读者 - 读者协议 Updated Agreement 的反向链接列表"
             }
           },
           {
@@ -274,6 +274,8 @@
   },
   "active": "07ccfb11f6a6a8c4",
   "lastOpenFiles": [
+    "01 - “是什么”系列/话语权.md",
+    "01 - “是什么”系列/真正的善.md",
     "03 - “如何看待”系列/君子远庖厨.md",
     "00 - 致读者/致读者 - 读者协议 Updated Agreement.md",
     "00 - 致读者/致读者 - 知乎回答指路（AKA自选集）.md",
@@ -282,7 +284,6 @@
     "01 - “是什么”系列/改变.md",
     "02 - “怎么办”系列/走到一起.md",
     "03 - “如何看待”系列/不婚族.md",
-    "01 - “是什么”系列/话语权.md",
     "03 - “如何看待”系列/找伴侣.md",
     "03 - “如何看待”系列/何谓中国人.md",
     "03 - “如何看待”系列/婚姻的意义.md",
@@ -299,7 +300,6 @@
     "01 - “是什么”系列/教养.md",
     "03 - “如何看待”系列/丧偶式育儿.md",
     "01 - “是什么”系列/性感.md",
-    "01 - “是什么”系列/恋爱的意义.md",
     "temp.test.ipynb",
     "tempCodeRunnerFile.julia",
     "“是什么”系列",
