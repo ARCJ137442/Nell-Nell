@@ -71,11 +71,11 @@
 
 [[英雄|“英雄”]](https://www.zhihu.com/question/281166188/answer/2100440541)
 
-[“学习”](https://www.zhihu.com/question/20190827/answer/1893635772)
+[[学习|“学习”]](https://www.zhihu.com/question/20190827/answer/1893635772)
 
-[“从容”](https://www.zhihu.com/question/274741255/answer/1773511269)
+[[从容|“从容”]](https://www.zhihu.com/question/274741255/answer/1773511269)
 
-[“初心”](https://www.zhihu.com/question/19894637/answer/1746315889)
+[[初心|“初心”]](https://www.zhihu.com/question/19894637/answer/1746315889)
 
 [[珍惜|“珍惜”]](https://www.zhihu.com/question/21215718/answer/1687567975)
 
@@ -85,15 +85,15 @@
 
 [[勇气|“勇气”]](https://www.zhihu.com/question/282268634/answer/1655660160)
 
-[“幽默”](https://www.zhihu.com/question/22529282/answer/1623208069)
+[[幽默|“幽默”]](https://www.zhihu.com/question/22529282/answer/1623208069)
 
-[“温柔”](https://www.zhihu.com/question/25539779/answer/1591868245)
+[[温柔|“温柔”]](https://www.zhihu.com/question/25539779/answer/1591868245)
 
 [[权力|“权力”]](https://www.zhihu.com/question/19667945/answer/2120044151)
 
 [[归属感|“归属感”]](https://www.zhihu.com/question/20311043/answer/1838011980)
 
-[“话语权”](https://www.zhihu.com/question/30046250/answer/1696078491)
+[[话语权|“话语权”]](https://www.zhihu.com/question/30046250/answer/1696078491)
 
 [[道德与伦理|道德/伦理]](https://www.zhihu.com/question/19877371/answer/2252442746)
 
@@ -115,7 +115,7 @@
 
 [[克服孤独|克服孤独感]](https://www.zhihu.com/question/296898800/answer/2268747553)
 
-[克服心中的恐惧](https://www.zhihu.com/question/26967741/answer/1641143275)
+[[克服恐惧|克服心中的恐惧]](https://www.zhihu.com/question/26967741/answer/1641143275)
 
 [[认可|渴望被认可]](https://www.zhihu.com/question/30584023/answer/2179657542)
 
@@ -131,7 +131,7 @@
 
 [[想太多|精神内耗]](https://www.zhihu.com/question/463287315/answer/1987670503)
 
-[自证预言](https://www.zhihu.com/question/469081139/answer/1981183914)
+[[相信|自证预言]](https://www.zhihu.com/question/469081139/answer/1981183914)
 
 [[行善|保持善良]](https://www.zhihu.com/question/268675200/answer/2517925150)
 
@@ -147,15 +147,15 @@
 
 [[问题的根源|找根源]](https://www.zhihu.com/question/441630823/answer/2773536102)
 
-[变强大](https://www.zhihu.com/question/429634067/answer/1937213068)
+[[变强大|变强大]](https://www.zhihu.com/question/429634067/answer/1937213068)
 
 [[愤怒|愤怒]](https://www.zhihu.com/question/487861949/answer/2511453315)
 
-[自卑](https://www.zhihu.com/question/20694013/answer/1940584003)
+[[克服自卑|自卑]](https://www.zhihu.com/question/20694013/answer/1940584003)
 
 [[自欺|自欺]](https://www.zhihu.com/question/449460482/answer/1843987819)
 
-[撑下去](https://www.zhihu.com/question/309145061/answer/1602715659)
+[[万念俱灰|撑下去]](https://www.zhihu.com/question/309145061/answer/1602715659)
 
 ### 2. 处理与他人的关系
 
@@ -171,7 +171,7 @@
 
 [[求得原谅|请求原谅]](https://www.zhihu.com/question/59242753/answer/2537739998)
 
-[抱怨和批评](https://www.zhihu.com/question/382508502/answer/1109670842)
+[[抱怨与批评|抱怨和批评]](https://www.zhihu.com/question/382508502/answer/1109670842)
 
 [[可靠|“可靠”的人]](https://www.zhihu.com/question/23971112/answer/1699790199)
 
