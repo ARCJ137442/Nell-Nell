@@ -36,20 +36,6 @@
             }
           },
           {
-            "id": "61add7febd9c8738",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - “是什么”系列/赞美苦难.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "赞美苦难"
-            }
-          },
-          {
             "id": "2a4b651b94501c03",
             "type": "leaf",
             "state": {
@@ -161,8 +147,7 @@
               "title": "接受最差的一面"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +178,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "赞美苦难",
+                "query": "悔改",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -225,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - “是什么”系列/赞美苦难.md",
+                "file": "00 - 致读者/致读者 - 读者协议 Updated Agreement.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +220,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "赞美苦难 的反向链接列表"
+              "title": "致读者 - 读者协议 Updated Agreement 的反向链接列表"
             }
           },
           {
@@ -304,11 +289,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "61add7febd9c8738",
+  "active": "07ccfb11f6a6a8c4",
   "lastOpenFiles": [
+    "06 - 书评 & 影评/《誓血五人组》.md",
+    "03 - “如何看待”系列/飞天意面教.md",
+    "03 - “如何看待”系列/拐卖问题.md",
+    "02 - “怎么办”系列/后悔.md",
+    "01 - “是什么”系列/关于爱与恨的一些思考.md",
     "00 - 致读者/致读者 - 读者协议 Updated Agreement.md",
-    "03 - “如何看待”系列/空巢期.md",
+    "05 - 圣经 & 神学/打喷嚏.md",
     "00 - 致读者/致读者 - 知乎回答指路（AKA自选集）.md",
+    "01 - “是什么”系列/赞美苦难.md",
+    "03 - “如何看待”系列/空巢期.md",
     "02 - “怎么办”系列/差不多就好.md",
     "02 - “怎么办”系列/走到一起.md",
     "02 - “怎么办”系列/动摇.md",
@@ -325,13 +317,6 @@
     "01 - “是什么”系列/女权.md",
     "02 - “怎么办”系列/以爱之名.md",
     "02 - “怎么办”系列/面试.md",
-    "03 - “如何看待”系列/接受最差的一面.md",
-    "02 - “怎么办”系列/高贵气质.md",
-    "01 - “是什么”系列/假性亲密关系.md",
-    "00 - 致读者/知乎 - 十年.md",
-    "06 - 书评 & 影评/《小丑》（Joker）.md",
-    "02 - “怎么办”系列/道歉无用.md",
-    "09 - 简答/落在实处.md",
     "转载授权/转载授权_NellNell.PNG"
   ]
 }

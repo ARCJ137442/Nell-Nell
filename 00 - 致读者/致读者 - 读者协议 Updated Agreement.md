@@ -464,23 +464,23 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 [[赞美苦难|为什么说“赞美苦难”是最阴险歹毒的“正能量”?]] [https://www.zhihu.com/question/516832110/answer/2533755374](https://www.zhihu.com/question/516832110/answer/2533755374)
 
-如何看待多名无辜者因「唐山打人事件」被网暴，有人收到花圈，烧烤店老板娘称已无法正常生活？ [https://www.zhihu.com/question/537293791/answer/2526215400](https://www.zhihu.com/question/537293791/answer/2526215400)
+[[迁怒|如何看待多名无辜者因「唐山打人事件」被网暴，有人收到花圈，烧烤店老板娘称已无法正常生活？]] [https://www.zhihu.com/question/537293791/answer/2526215400](https://www.zhihu.com/question/537293791/answer/2526215400)
 
-恋爱中应该要凡事分得清吗？ [https://www.zhihu.com/question/537197073/answer/2525137981](https://www.zhihu.com/question/537197073/answer/2525137981)
+[[凡事分清|恋爱中应该要凡事分得清吗？]] [https://www.zhihu.com/question/537197073/answer/2525137981](https://www.zhihu.com/question/537197073/answer/2525137981)
 
-为什么有“打喷嚏是有人在想/说你”的说法？ [https://www.zhihu.com/question/537011630/answer/2523618739](https://www.zhihu.com/question/537011630/answer/2523618739)
+[[打喷嚏|为什么有“打喷嚏是有人在想/说你”的说法？]] [https://www.zhihu.com/question/537011630/answer/2523618739](https://www.zhihu.com/question/537011630/answer/2523618739)
 
-如何评价电视剧《现代弥赛亚》？ [https://www.zhihu.com/question/364074926/answer/2519267216](https://www.zhihu.com/question/364074926/answer/2519267216)
+[[《现代弥赛亚》|如何评价电视剧《现代弥赛亚》？]] [https://www.zhihu.com/question/364074926/answer/2519267216](https://www.zhihu.com/question/364074926/answer/2519267216)
 
-如何看待父母无恩论？[https://www.zhihu.com/question/26860040/answer/2516491313](https://www.zhihu.com/question/26860040/answer/2516491313)
+[[父母恩|如何看待父母无恩论？]][https://www.zhihu.com/question/26860040/answer/2516491313](https://www.zhihu.com/question/26860040/answer/2516491313)
 
-如何看待美国一 18岁高中生在小学枪杀 21 人？ [https://www.zhihu.com/question/534443107/answer/2501757189](https://www.zhihu.com/question/534443107/answer/2501757189)
+[[屠杀|如何看待美国一 18岁高中生在小学枪杀 21 人？]] [https://www.zhihu.com/question/534443107/answer/2501757189](https://www.zhihu.com/question/534443107/answer/2501757189)
 
-如何看待“道理我都懂可是”？ [https://www.zhihu.com/question/31793776/answer/2493405490](https://www.zhihu.com/question/31793776/answer/2493405490)
+[[道理都懂|如何看待“道理我都懂可是”？]] [https://www.zhihu.com/question/31793776/answer/2493405490](https://www.zhihu.com/question/31793776/answer/2493405490)
 
-如何看待炫耀？ [https://www.zhihu.com/question/533384071/answer/2490774881](https://www.zhihu.com/question/533384071/answer/2490774881)
+[[炫耀|如何看待炫耀？]] [https://www.zhihu.com/question/533384071/answer/2490774881](https://www.zhihu.com/question/533384071/answer/2490774881)
 
-如何看待“悔改的洗礼” [https://www.zhihu.com/question/322186518/answer/2443488725](https://www.zhihu.com/question/322186518/answer/2443488725)
+【荒原】如何看待“悔改的洗礼” [https://www.zhihu.com/question/322186518/answer/2443488725](https://www.zhihu.com/question/322186518/answer/2443488725)
 
 如何看待“劝人”？ [https://www.zhihu.com/question/323510525/answer/2074162381](https://www.zhihu.com/question/323510525/answer/2074162381)
 
