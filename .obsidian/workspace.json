@@ -150,7 +150,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "过新手司机没？新手司机有一个特点，就是特别顾虑其他司机的",
+                "query": "掌管阳光雨露，但万物生长也需要自发去吸收水分，光合作",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -230,7 +230,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "1657ba56615883fb",
@@ -263,10 +263,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef439ef9c29f0891",
+  "active": "cc98ae3a7378d96c",
   "lastOpenFiles": [
-    "01 - “是什么”系列/恋爱的意义.md",
+    "01 - “是什么”系列/教养.md",
     "00 - 致读者/致读者 - 知乎回答指路（AKA自选集）.md",
+    "03 - “如何看待”系列/丧偶式育儿.md",
+    "01 - “是什么”系列/性感.md",
+    "01 - “是什么”系列/恋爱的意义.md",
     "00 - 致读者/致读者 - 读者协议 Updated Agreement.md",
     "03 - “如何看待”系列/找伴侣.md",
     "03 - “如何看待”系列/追爱.md",
@@ -291,9 +294,6 @@
     "“是什么”系列/人之初.md",
     "“是什么”系列",
     "02 - “怎么办”系列/爱与被爱.md",
-    "01 - “是什么”系列/灵魂.md",
-    "05 - 圣经 & 神学/灵魂不灭.md",
-    "03 - “如何看待”系列/政治性抑郁.md",
     "转载授权/转载授权_NellNell.PNG"
   ]
 }
