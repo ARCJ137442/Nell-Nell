@@ -250,9 +250,9 @@
 
 [[信仰|人是不是必须得有信仰？如果是，什么样的信仰才是最好的选择？]] [https://www.zhihu.com/question/511352074/answer/2403004747](https://www.zhihu.com/question/511352074/answer/2403004747)
 
-[[爱的选择|爱的对象是否有选择以及爱是否有深浅]]？ [https://www.zhihu.com/question/524163583/answer/2407823439](https://www.zhihu.com/question/524163583/answer/2407823439)
+[[爱的选择|爱的对象是否有选择以及爱是否有深浅？]] [https://www.zhihu.com/question/524163583/answer/2407823439](https://www.zhihu.com/question/524163583/answer/2407823439)
 
-[[释然|什么是真正的释怀]]？ [https://www.zhihu.com/question/30256563/answer/2432886896](https://www.zhihu.com/question/30256563/answer/2432886896)
+[[释然|什么是真正的释怀？]] [https://www.zhihu.com/question/30256563/answer/2432886896](https://www.zhihu.com/question/30256563/answer/2432886896)
 
 ### “怎么办”系列
 
@@ -260,25 +260,25 @@
 
 如何调整自己与他人的[[攀比]]虚荣心？ [https://www.zhihu.com/question/541354816/answer/2558643266](https://www.zhihu.com/question/541354816/answer/2558643266)
 
-如何划分[[自恋和自信]]？ [https://www.zhihu.com/question/20307773/answer/2553466989](https://www.zhihu.com/question/20307773/answer/2553466989)
+如何划分[[自恋和自信？]] [https://www.zhihu.com/question/20307773/answer/2553466989](https://www.zhihu.com/question/20307773/answer/2553466989)
 
-如何避免[[校园霸凌|校园欺凌]]？ [https://www.zhihu.com/question/539801096/answer/2546785101](https://www.zhihu.com/question/539801096/answer/2546785101)
+如何避免[[校园霸凌|校园欺凌？]] [https://www.zhihu.com/question/539801096/answer/2546785101](https://www.zhihu.com/question/539801096/answer/2546785101)
 
 在[[大学]]应当着重培养什么能力呢？ [https://www.zhihu.com/question/536030362/answer/2542583229](https://www.zhihu.com/question/536030362/answer/2542583229)
 
-[[性侵危机|父亲对女儿动手动脚，作为受害者该怎么做]]？ [https://www.zhihu.com/question/63917579/answer/2538953550](https://www.zhihu.com/question/63917579/answer/2538953550)
+[[性侵危机|父亲对女儿动手动脚，作为受害者该怎么做？]] [https://www.zhihu.com/question/63917579/answer/2538953550](https://www.zhihu.com/question/63917579/answer/2538953550)
 
-[[求得原谅|做错事无法得到对方的原谅怎么办]]？ [https://www.zhihu.com/question/59242753/answer/2537739998](https://www.zhihu.com/question/59242753/answer/2537739998)
+[[求得原谅|做错事无法得到对方的原谅怎么办？]] [https://www.zhihu.com/question/59242753/answer/2537739998](https://www.zhihu.com/question/59242753/answer/2537739998)
 
-[[此路不通|喜欢的男生说自己害怕谈恋爱，对自己也有好感，这是为什么呢]]？ [https://www.zhihu.com/question/538437824/answer/2536284600](https://www.zhihu.com/question/538437824/answer/2536284600)
+[[此路不通|喜欢的男生说自己害怕谈恋爱，对自己也有好感，这是为什么呢？]] [https://www.zhihu.com/question/538437824/answer/2536284600](https://www.zhihu.com/question/538437824/answer/2536284600)
 
-当你处在一个经常有人伤害你的环境里，你该怎么在保持善良的同时，表现出自己的[[尊严]]？ [https://www.zhihu.com/question/536080771/answer/2534605230](https://www.zhihu.com/question/536080771/answer/2534605230)
+当你处在一个经常有人伤害你的环境里，你该怎么在保持善良的同时，表现出自己的[[尊严？]] [https://www.zhihu.com/question/536080771/answer/2534605230](https://www.zhihu.com/question/536080771/answer/2534605230)
 
 如何改掉自己[[骂人]]的缺点？[https://www.zhihu.com/question/537260097/answer/2528952749](https://www.zhihu.com/question/537260097/answer/2528952749)
 
-怎么处理男生不喜欢戴首饰，但未婚妻要求结婚之后必须戴[[婚戒]]？ [https://www.zhihu.com/question/516779881/answer/2520768472](https://www.zhihu.com/question/516779881/answer/2520768472)
+怎么处理男生不喜欢戴首饰，但未婚妻要求结婚之后必须戴[[婚戒？]] [https://www.zhihu.com/question/516779881/answer/2520768472](https://www.zhihu.com/question/516779881/answer/2520768472)
 
-[[行善|就算这个社会很复杂也应该一直保持善良吗]]？ [https://www.zhihu.com/question/268675200/answer/2517925150](https://www.zhihu.com/question/268675200/answer/2517925150)
+[[行善|就算这个社会很复杂也应该一直保持善良吗？]] [https://www.zhihu.com/question/268675200/answer/2517925150](https://www.zhihu.com/question/268675200/answer/2517925150)
 
 怎么回答孩子问「别的小朋友主动打我，老师让他道歉了，为什么我就必须得说[[没关系]]」？[https://www.zhihu.com/question/534678898/answer/2513934366](https://www.zhihu.com/question/534678898/answer/2513934366)
 
@@ -288,147 +288,147 @@
 
 [[玻璃心 - 预备通关|对于一个网友的话无法释怀，我是不是太玻璃心了？]] [https://www.zhihu.com/question/306563002/answer/2503337621](https://www.zhihu.com/question/306563002/answer/2503337621)
 
-怎么使不出[[力量]]？[https://www.zhihu.com/question/534421223/answer/2500394585](https://www.zhihu.com/question/534421223/answer/2500394585)
+怎么使不出[[力量？]][https://www.zhihu.com/question/534421223/answer/2500394585](https://www.zhihu.com/question/534421223/answer/2500394585)
 
-[[教授感恩|怎么让孩子懂得感恩]]？ [https://www.zhihu.com/question/532753302/answer/2498274396](https://www.zhihu.com/question/532753302/answer/2498274396)
+[[教授感恩|怎么让孩子懂得感恩？]] [https://www.zhihu.com/question/532753302/answer/2498274396](https://www.zhihu.com/question/532753302/answer/2498274396)
 
-怎么[[保存生鲜蔬菜]]？[https://www.zhihu.com/question/346306026/answer/2436848037](https://www.zhihu.com/question/346306026/answer/2436848037)
+怎么[[保存生鲜蔬菜？]][https://www.zhihu.com/question/346306026/answer/2436848037](https://www.zhihu.com/question/346306026/answer/2436848037)
 
-怎么[[举报]]？[https://www.zhihu.com/question/375078701/answer/1059600808](https://www.zhihu.com/question/375078701/answer/1059600808)
+怎么[[举报？]][https://www.zhihu.com/question/375078701/answer/1059600808](https://www.zhihu.com/question/375078701/answer/1059600808)
 
-怎么帮[[助人]]？ [https://www.zhihu.com/question/463542383/answer/2328814044](https://www.zhihu.com/question/463542383/answer/2328814044)
+怎么帮[[助人？]] [https://www.zhihu.com/question/463542383/answer/2328814044](https://www.zhihu.com/question/463542383/answer/2328814044)
 
-[[真话|怎么说实话]]？ [https://www.zhihu.com/question/289632990/answer/2048173451](https://www.zhihu.com/question/289632990/answer/2048173451)
+[[真话|怎么说实话？]] [https://www.zhihu.com/question/289632990/answer/2048173451](https://www.zhihu.com/question/289632990/answer/2048173451)
 
-怎么[[表达爱]]？ [https://www.zhihu.com/question/279024049/answer/2032296855](https://www.zhihu.com/question/279024049/answer/2032296855)
+怎么[[表达爱？]] [https://www.zhihu.com/question/279024049/answer/2032296855](https://www.zhihu.com/question/279024049/answer/2032296855)
 
-怎么[[赞美|赞美人]]？ [https://www.zhihu.com/question/20667141/answer/1876948754](https://www.zhihu.com/question/20667141/answer/1876948754)
+怎么[[赞美|赞美人？]] [https://www.zhihu.com/question/20667141/answer/1876948754](https://www.zhihu.com/question/20667141/answer/1876948754)
 
-怎么[[戒掉自慰]]？ [https://www.zhihu.com/question/333984852/answer/2026009688](https://www.zhihu.com/question/333984852/answer/2026009688)
+怎么[[戒掉自慰？]] [https://www.zhihu.com/question/333984852/answer/2026009688](https://www.zhihu.com/question/333984852/answer/2026009688)
 
-怎么算[[负责任]]？ [https://www.zhihu.com/question/491309857/answer/2161628913](https://www.zhihu.com/question/491309857/answer/2161628913)
+怎么算[[负责任？]] [https://www.zhihu.com/question/491309857/answer/2161628913](https://www.zhihu.com/question/491309857/answer/2161628913)
 
-[[省时烹饪|怎么做饭省事]]？ [https://www.zhihu.com/question/22903687/answer/1897448672](https://www.zhihu.com/question/22903687/answer/1897448672)
+[[省时烹饪|怎么做饭省事？]] [https://www.zhihu.com/question/22903687/answer/1897448672](https://www.zhihu.com/question/22903687/answer/1897448672)
 
-怎么[[原谅父母]]？[https://www.zhihu.com/question/28356478/answer/810670391](https://www.zhihu.com/question/28356478/answer/810670391)
+怎么[[原谅父母？]][https://www.zhihu.com/question/28356478/answer/810670391](https://www.zhihu.com/question/28356478/answer/810670391)
 
 怎么对待“[[催生]]”？ [https://www.zhihu.com/question/286067249/answer/2130274653](https://www.zhihu.com/question/286067249/answer/2130274653)
 
-怎么对付[[谣言]]？ [https://www.zhihu.com/question/422682440/answer/1491748419](https://www.zhihu.com/question/422682440/answer/1491748419)
+怎么对付[[谣言？]] [https://www.zhihu.com/question/422682440/answer/1491748419](https://www.zhihu.com/question/422682440/answer/1491748419)
 
 怎么[[宽恕]]一个人？ [https://www.zhihu.com/question/20838203/answer/1918000297](https://www.zhihu.com/question/20838203/answer/1918000297)
 
-[[变强大|怎么变得更强大]]？ - [https://www.zhihu.com/question/429634067/answer/1937213068](https://www.zhihu.com/question/429634067/answer/1937213068)
+[[变强大|怎么变得更强大？]] - [https://www.zhihu.com/question/429634067/answer/1937213068](https://www.zhihu.com/question/429634067/answer/1937213068)
 
-[[避免轻看人|怎么避免看不起人]]？ [https://www.zhihu.com/question/26828496/answer/2028561601](https://www.zhihu.com/question/26828496/answer/2028561601)
+[[避免轻看人|怎么避免看不起人？]] [https://www.zhihu.com/question/26828496/answer/2028561601](https://www.zhihu.com/question/26828496/answer/2028561601)
 
-怎么和[[留守儿童沟通]]？ [https://www.zhihu.com/question/301600967/answer/2112582522](https://www.zhihu.com/question/301600967/answer/2112582522)
+怎么和[[留守儿童沟通？]] [https://www.zhihu.com/question/301600967/answer/2112582522](https://www.zhihu.com/question/301600967/answer/2112582522)
 
-[[克服恐惧|怎么克服心中恐惧]]？ [https://www.zhihu.com/question/26967741/answer/1641143275](https://www.zhihu.com/question/26967741/answer/1641143275)
+[[克服恐惧|怎么克服心中恐惧？]] [https://www.zhihu.com/question/26967741/answer/1641143275](https://www.zhihu.com/question/26967741/answer/1641143275)
 
-[[增长耐心|怎么变得更加耐心]]？ [https://www.zhihu.com/question/335625154/answer/1608382649](https://www.zhihu.com/question/335625154/answer/1608382649)
+[[增长耐心|怎么变得更加耐心？]] [https://www.zhihu.com/question/335625154/answer/1608382649](https://www.zhihu.com/question/335625154/answer/1608382649)
 
 [[万念俱灰]]怎么办？ [https://www.zhihu.com/question/309145061/answer/1602715659](https://www.zhihu.com/question/309145061/answer/1602715659)
 
-怎么对事物进行[[归因]]？ [https://www.zhihu.com/question/65226580/answer/2307605443](https://www.zhihu.com/question/65226580/answer/2307605443)
+怎么对事物进行[[归因？]] [https://www.zhihu.com/question/65226580/answer/2307605443](https://www.zhihu.com/question/65226580/answer/2307605443)
 
-[[爱的自检|怎么检验出于爱的行为]]？[https://www.zhihu.com/question/441688567/answer/1708886796](https://www.zhihu.com/question/441688567/answer/1708886796)
+[[爱的自检|怎么检验出于爱的行为？]][https://www.zhihu.com/question/441688567/answer/1708886796](https://www.zhihu.com/question/441688567/answer/1708886796)
 
-怎么与孩子[[谈论“贫穷”]]？ [https://www.zhihu.com/question/296333267/answer/1498729920](https://www.zhihu.com/question/296333267/answer/1498729920)
+怎么与孩子[[谈论“贫穷”？]] [https://www.zhihu.com/question/296333267/answer/1498729920](https://www.zhihu.com/question/296333267/answer/1498729920)
 
-[[课堂秩序管理|怎么建立课堂秩序]]？[https://www.zhihu.com/question/300244076/answer/1488571786](https://www.zhihu.com/question/300244076/answer/1488571786)
+[[课堂秩序管理|怎么建立课堂秩序？]][https://www.zhihu.com/question/300244076/answer/1488571786](https://www.zhihu.com/question/300244076/answer/1488571786)
 
-[[辨别聪明人|怎么辨认身边的聪明人]]？ [https://www.zhihu.com/question/28484672/answer/1091110313](https://www.zhihu.com/question/28484672/answer/1091110313)
+[[辨别聪明人|怎么辨认身边的聪明人？]] [https://www.zhihu.com/question/28484672/answer/1091110313](https://www.zhihu.com/question/28484672/answer/1091110313)
 
-[[男性何时不幼稚|男性怎样才能不幼稚]]？ [https://www.zhihu.com/question/45730566/answer/1471565993](https://www.zhihu.com/question/45730566/answer/1471565993)
+[[男性何时不幼稚|男性怎样才能不幼稚？]] [https://www.zhihu.com/question/45730566/answer/1471565993](https://www.zhihu.com/question/45730566/answer/1471565993)
 
-[[信息碎片|怎么处理碎片化信息]]？ [https://www.zhihu.com/question/418830791/answer/1450680450](https://www.zhihu.com/question/418830791/answer/1450680450)
+[[信息碎片|怎么处理碎片化信息？]] [https://www.zhihu.com/question/418830791/answer/1450680450](https://www.zhihu.com/question/418830791/answer/1450680450)
 
-[[自传|怎么和母亲聊天]]？ [https://www.zhihu.com/question/415881067/answer/1423054655](https://www.zhihu.com/question/415881067/answer/1423054655)
+[[自传|怎么和母亲聊天？]] [https://www.zhihu.com/question/415881067/answer/1423054655](https://www.zhihu.com/question/415881067/answer/1423054655)
 
-[[穿搭|怎么穿衣搭配]]？ [https://www.zhihu.com/question/33433793/answer/636204032](https://www.zhihu.com/question/33433793/answer/636204032)
+[[穿搭|怎么穿衣搭配？]] [https://www.zhihu.com/question/33433793/answer/636204032](https://www.zhihu.com/question/33433793/answer/636204032)
 
-[[自觉软弱|感觉自己软弱怎么办]]？ [https://www.zhihu.com/question/445710150/answer/2317848626](https://www.zhihu.com/question/445710150/answer/2317848626)
+[[自觉软弱|感觉自己软弱怎么办？]] [https://www.zhihu.com/question/445710150/answer/2317848626](https://www.zhihu.com/question/445710150/answer/2317848626)
 
-[[想太多|想太多怎么办]]？ [https://www.zhihu.com/question/463287315/answer/1987670503](https://www.zhihu.com/question/463287315/answer/1987670503)
+[[想太多|想太多怎么办？]] [https://www.zhihu.com/question/463287315/answer/1987670503](https://www.zhihu.com/question/463287315/answer/1987670503)
 
-[[克服自卑|自卑怎么办]]？ [https://www.zhihu.com/question/20694013/answer/1940584003](https://www.zhihu.com/question/20694013/answer/1940584003)
+[[克服自卑|自卑怎么办？]] [https://www.zhihu.com/question/20694013/answer/1940584003](https://www.zhihu.com/question/20694013/answer/1940584003)
 
-[[精神支柱|失去了精神支柱怎么办]]？ [https://www.zhihu.com/question/34842419/answer/2301114752](https://www.zhihu.com/question/34842419/answer/2301114752)
+[[精神支柱|失去了精神支柱怎么办？]] [https://www.zhihu.com/question/34842419/answer/2301114752](https://www.zhihu.com/question/34842419/answer/2301114752)
 
-[[性格软弱|性格软弱怎么办]]？ [https://www.zhihu.com/question/38555974/answer/2274909971](https://www.zhihu.com/question/38555974/answer/2274909971)
+[[性格软弱|性格软弱怎么办？]] [https://www.zhihu.com/question/38555974/answer/2274909971](https://www.zhihu.com/question/38555974/answer/2274909971)
 
-[[克服孤独|孤独怎么办]]？ [https://www.zhihu.com/question/296898800/answer/2268747553](https://www.zhihu.com/question/296898800/answer/2268747553)
+[[克服孤独|孤独怎么办？]] [https://www.zhihu.com/question/296898800/answer/2268747553](https://www.zhihu.com/question/296898800/answer/2268747553)
 
-[[幼稚|觉得周围人幼稚怎么办]]？[https://www.zhihu.com/question/20864118/answer/2266141860](https://www.zhihu.com/question/20864118/answer/2266141860)
+[[幼稚|觉得周围人幼稚怎么办？]][https://www.zhihu.com/question/20864118/answer/2266141860](https://www.zhihu.com/question/20864118/answer/2266141860)
 
-[[静心|心静不下来怎么办]]？ [https://www.zhihu.com/question/59716002/answer/2264698092](https://www.zhihu.com/question/59716002/answer/2264698092)
+[[静心|心静不下来怎么办？]] [https://www.zhihu.com/question/59716002/answer/2264698092](https://www.zhihu.com/question/59716002/answer/2264698092)
 
-[[缺爱 - 公益活动|缺爱的人怎么爱别人]]？ [https://www.zhihu.com/question/429147970/answer/2255833638](https://www.zhihu.com/question/429147970/answer/2255833638)
+[[缺爱 - 公益活动|缺爱的人怎么爱别人？]] [https://www.zhihu.com/question/429147970/answer/2255833638](https://www.zhihu.com/question/429147970/answer/2255833638)
 
-[[我需要ta|我需要ta怎么办]]？ [https://www.zhihu.com/question/446705832/answer/2098265920](https://www.zhihu.com/question/446705832/answer/2098265920)
+[[我需要ta|我需要ta怎么办？]] [https://www.zhihu.com/question/446705832/answer/2098265920](https://www.zhihu.com/question/446705832/answer/2098265920)
 
-[[笨蛋|害怕成为笨蛋怎么办]]？ [https://www.zhihu.com/question/496457049/answer/2205266868](https://www.zhihu.com/question/496457049/answer/2205266868)
+[[笨蛋|害怕成为笨蛋怎么办？]] [https://www.zhihu.com/question/496457049/answer/2205266868](https://www.zhihu.com/question/496457049/answer/2205266868)
 
-[[父母不爱|父母不爱自己怎么办]]？ [https://www.zhihu.com/question/31473116/answer/2189477071](https://www.zhihu.com/question/31473116/answer/2189477071)
+[[父母不爱|父母不爱自己怎么办？]] [https://www.zhihu.com/question/31473116/answer/2189477071](https://www.zhihu.com/question/31473116/answer/2189477071)
 
-[[目的性太强|目的性太强怎么办]]？ [https://www.zhihu.com/question/30101043/answer/1884925432](https://www.zhihu.com/question/30101043/answer/1884925432)
+[[目的性太强|目的性太强怎么办？]] [https://www.zhihu.com/question/30101043/answer/1884925432](https://www.zhihu.com/question/30101043/answer/1884925432)
 
-[[认可|总想得到别人的认可怎样办总想得到别人的认可怎样办]]？ [https://www.zhihu.com/question/30584023/answer/2179657542](https://www.zhihu.com/question/30584023/answer/2179657542)
+[[认可|总想得到别人的认可怎样办总想得到别人的认可怎样办？]] [https://www.zhihu.com/question/30584023/answer/2179657542](https://www.zhihu.com/question/30584023/answer/2179657542)
 
-[[无常|精神寄托不可能实现怎么办]]？ [https://www.zhihu.com/question/485146595/answer/2107325411](https://www.zhihu.com/question/485146595/answer/2107325411)
+[[无常|精神寄托不可能实现怎么办？]] [https://www.zhihu.com/question/485146595/answer/2107325411](https://www.zhihu.com/question/485146595/answer/2107325411)
 
-[[互信|人与人之间怎样才能互信]]？ [https://www.zhihu.com/question/482200684/answer/2084759891](https://www.zhihu.com/question/482200684/answer/2084759891)
+[[互信|人与人之间怎样才能互信？]] [https://www.zhihu.com/question/482200684/answer/2084759891](https://www.zhihu.com/question/482200684/answer/2084759891)
 
-[[负面沉浸|沉浸在负面情绪中怎么办]]？ [https://www.zhihu.com/question/26444778/answer/2008775283](https://www.zhihu.com/question/26444778/answer/2008775283)
+[[负面沉浸|沉浸在负面情绪中怎么办？]] [https://www.zhihu.com/question/26444778/answer/2008775283](https://www.zhihu.com/question/26444778/answer/2008775283)
 
-[[抓着不放的人|有人抓着自己不放怎么办]]？ [https://www.zhihu.com/question/473144129/answer/2010421105](https://www.zhihu.com/question/473144129/answer/2010421105)
+[[抓着不放的人|有人抓着自己不放怎么办？]] [https://www.zhihu.com/question/473144129/answer/2010421105](https://www.zhihu.com/question/473144129/answer/2010421105)
 
-[[02 - “怎么办”系列/走到一起|两个人走不到一起怎么办]]？[https://www.zhihu.com/question/356770661/answer/1900773338](https://www.zhihu.com/question/356770661/answer/1900773338)
+[[02 - “怎么办”系列/走到一起|两个人走不到一起怎么办？]][https://www.zhihu.com/question/356770661/answer/1900773338](https://www.zhihu.com/question/356770661/answer/1900773338)
 
-[[过分在意|过于在意别人想法怎么办]]？[https://www.zhihu.com/question/20767147/answer/1875698064](https://www.zhihu.com/question/20767147/answer/1875698064)
+[[过分在意|过于在意别人想法怎么办？]][https://www.zhihu.com/question/20767147/answer/1875698064](https://www.zhihu.com/question/20767147/answer/1875698064)
 
-[[落在实处|怎么让对方感受更多爱]]？ [https://www.zhihu.com/question/456788429/answer/1858366787](https://www.zhihu.com/question/456788429/answer/1858366787)
+[[落在实处|怎么让对方感受更多爱？]] [https://www.zhihu.com/question/456788429/answer/1858366787](https://www.zhihu.com/question/456788429/answer/1858366787)
 
-[[爱得痛苦|爱让人痛苦怎么办]]？ [https://www.zhihu.com/question/418006057/answer/1828158537](https://www.zhihu.com/question/418006057/answer/1828158537)
+[[爱得痛苦|爱让人痛苦怎么办？]] [https://www.zhihu.com/question/418006057/answer/1828158537](https://www.zhihu.com/question/418006057/answer/1828158537)
 
-[[亲人病重|亲人病重怎么办]]？ [https://www.zhihu.com/question/56875964/answer/1778203708](https://www.zhihu.com/question/56875964/answer/1778203708)
+[[亲人病重|亲人病重怎么办？]] [https://www.zhihu.com/question/56875964/answer/1778203708](https://www.zhihu.com/question/56875964/answer/1778203708)
 
-[[莫失莫忘|忘不掉自己喜欢的人怎么办]]？ [https://www.zhihu.com/question/441535705/answer/1735536818](https://www.zhihu.com/question/441535705/answer/1735536818)
+[[莫失莫忘|忘不掉自己喜欢的人怎么办？]] [https://www.zhihu.com/question/441535705/answer/1735536818](https://www.zhihu.com/question/441535705/answer/1735536818)
 
-[[感情测试|男朋友没通过测试怎么办]]？ [https://www.zhihu.com/question/351858266/answer/1712764924](https://www.zhihu.com/question/351858266/answer/1712764924)
+[[感情测试|男朋友没通过测试怎么办？]] [https://www.zhihu.com/question/351858266/answer/1712764924](https://www.zhihu.com/question/351858266/answer/1712764924)
 
-[[玻璃心 - 敌意归因|玻璃心怎么办]]？ [https://www.zhihu.com/question/33553786/answer/1365971345](https://www.zhihu.com/question/33553786/answer/1365971345)
+[[玻璃心 - 敌意归因|玻璃心怎么办？]] [https://www.zhihu.com/question/33553786/answer/1365971345](https://www.zhihu.com/question/33553786/answer/1365971345)
 
-[[情商低|情商低怎么办]]？[https://www.zhihu.com/question/388178104/answer/1321428721](https://www.zhihu.com/question/388178104/answer/1321428721)
+[[情商低|情商低怎么办？]][https://www.zhihu.com/question/388178104/answer/1321428721](https://www.zhihu.com/question/388178104/answer/1321428721)
 
-[[农村男性的出路|农村光棍怎么办]]？ [https://www.zhihu.com/question/327908269/answer/930772547](https://www.zhihu.com/question/327908269/answer/930772547)
+[[农村男性的出路|农村光棍怎么办？]] [https://www.zhihu.com/question/327908269/answer/930772547](https://www.zhihu.com/question/327908269/answer/930772547)
 
-[[欠钱不还|欠钱不还怎么办]]？ [https://www.zhihu.com/question/302015138/answer/893452852](https://www.zhihu.com/question/302015138/answer/893452852)
+[[欠钱不还|欠钱不还怎么办？]] [https://www.zhihu.com/question/302015138/answer/893452852](https://www.zhihu.com/question/302015138/answer/893452852)
 
-[[不平庸|孩子很平庸怎么办]]？ [https://www.zhihu.com/question/341127721/answer/826140959](https://www.zhihu.com/question/341127721/answer/826140959)
+[[不平庸|孩子很平庸怎么办？]] [https://www.zhihu.com/question/341127721/answer/826140959](https://www.zhihu.com/question/341127721/answer/826140959)
 
-[[《海边的曼彻斯特》|后悔怎么办]]？ [https://www.zhihu.com/question/53523367/answer/751676961](https://www.zhihu.com/question/53523367/answer/751676961)
+[[《海边的曼彻斯特》|后悔怎么办？]] [https://www.zhihu.com/question/53523367/answer/751676961](https://www.zhihu.com/question/53523367/answer/751676961)
 
-[[研究生与导师|研究生和导师应该怎么相处]]？ [https://www.zhihu.com/question/317549452/answer/633409325](https://www.zhihu.com/question/317549452/answer/633409325)
+[[研究生与导师|研究生和导师应该怎么相处？]] [https://www.zhihu.com/question/317549452/answer/633409325](https://www.zhihu.com/question/317549452/answer/633409325)
 
-[[如何活|没有遇到喜欢你的人怎么办]]？ [https://www.zhihu.com/question/313241934/answer/619389760](https://www.zhihu.com/question/313241934/answer/619389760)
+[[如何活|没有遇到喜欢你的人怎么办？]] [https://www.zhihu.com/question/313241934/answer/619389760](https://www.zhihu.com/question/313241934/answer/619389760)
 
-[[空巢期|没有生孩子的女性怎么办]]？ [https://www.zhihu.com/question/330291827/answer/784616633](https://www.zhihu.com/question/330291827/answer/784616633)
+[[空巢期|没有生孩子的女性怎么办？]] [https://www.zhihu.com/question/330291827/answer/784616633](https://www.zhihu.com/question/330291827/answer/784616633)
 
-[[动摇|亲密关系中出现“动摇”怎么办]]？ [https://www.zhihu.com/question/495836892/answer/2257159162](https://www.zhihu.com/question/495836892/answer/2257159162)
+[[动摇|亲密关系中出现“动摇”怎么办？]] [https://www.zhihu.com/question/495836892/answer/2257159162](https://www.zhihu.com/question/495836892/answer/2257159162)
 
-[[孩子的世界|不想兑现给孩子的承诺怎么办]]？ [https://www.zhihu.com/question/332684032/answer/756284027](https://www.zhihu.com/question/332684032/answer/756284027)
+[[孩子的世界|不想兑现给孩子的承诺怎么办？]] [https://www.zhihu.com/question/332684032/answer/756284027](https://www.zhihu.com/question/332684032/answer/756284027)
 
-[[高贵气质|女生怎么变得很有气场和自信]]？ [https://www.zhihu.com/question/297342809/answer/586101469](https://www.zhihu.com/question/297342809/answer/586101469)
+[[高贵气质|女生怎么变得很有气场和自信？]] [https://www.zhihu.com/question/297342809/answer/586101469](https://www.zhihu.com/question/297342809/answer/586101469)
 
-[[差不多就好|怎么克服“差不多就好”的态度]]？ [https://www.zhihu.com/question/28566702/answer/2052878629](https://www.zhihu.com/question/28566702/answer/2052878629)
+[[差不多就好|怎么克服“差不多就好”的态度？]] [https://www.zhihu.com/question/28566702/answer/2052878629](https://www.zhihu.com/question/28566702/answer/2052878629)
 
-[[怕亏欠|交流中给别人带来困扰怎么办]]？ [https://www.zhihu.com/question/471971464/answer/2001335060](https://www.zhihu.com/question/471971464/answer/2001335060)
+[[怕亏欠|交流中给别人带来困扰怎么办？]] [https://www.zhihu.com/question/471971464/answer/2001335060](https://www.zhihu.com/question/471971464/answer/2001335060)
 
-[[护理病患|家有老年痴呆症的老人怎么办]]？ [https://www.zhihu.com/question/39952242/answer/1991267175](https://www.zhihu.com/question/39952242/answer/1991267175)
+[[护理病患|家有老年痴呆症的老人怎么办？]] [https://www.zhihu.com/question/39952242/answer/1991267175](https://www.zhihu.com/question/39952242/answer/1991267175)
 
-[[面试|面试怎么回答“你最大的缺点是什么”]]？ [https://www.zhihu.com/question/20887129/answer/1742511101](https://www.zhihu.com/question/20887129/answer/1742511101)
+[[面试|面试怎么回答“你最大的缺点是什么”？]] [https://www.zhihu.com/question/20887129/answer/1742511101](https://www.zhihu.com/question/20887129/answer/1742511101)
 
 [[痛苦者改变|妈妈每天对我语言暴力怎么办？]] [https://www.zhihu.com/question/445295542/answer/1741160034](https://www.zhihu.com/question/445295542/answer/1741160034)
 
