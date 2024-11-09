@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - “是什么”系列/改变.md",
+                "file": "00 - 致读者/致读者 - 读者协议 Updated Agreement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "改变"
+              "title": "致读者 - 读者协议 Updated Agreement"
             }
           },
           {
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -151,7 +151,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "掌管阳光雨露，但万物生长也需要自发去吸收水分，光合作",
+                "query": "\"https://www.zhihu.com/question/334731954/answer/748106487\"",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - “如何看待”系列/不婚族.md",
+                "file": "00 - 致读者/致读者 - 读者协议 Updated Agreement.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "不婚族 的反向链接列表"
+              "title": "致读者 - 读者协议 Updated Agreement 的反向链接列表"
             }
           },
           {
@@ -264,16 +264,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73e816e78ef1d1cb",
+  "active": "b14ff5431d0dc1f1",
   "lastOpenFiles": [
+    "02 - “怎么办”系列/留守儿童沟通.md",
+    "04 - “好好活着”系列/留守儿童.md",
+    "00 - 致读者/致读者 - 读者协议 Updated Agreement.md",
+    "01 - “是什么”系列/改变.md",
+    "02 - “怎么办”系列/走到一起.md",
+    "03 - “如何看待”系列/不婚族.md",
     "01 - “是什么”系列/话语权.md",
     "03 - “如何看待”系列/找伴侣.md",
-    "02 - “怎么办”系列/走到一起.md",
     "03 - “如何看待”系列/何谓中国人.md",
     "03 - “如何看待”系列/婚姻的意义.md",
     "沙海拾金/走到一起.md",
     "02 - “怎么办”系列/无常.md",
-    "00 - 致读者/致读者 - 读者协议 Updated Agreement.md",
     "01 - “是什么”系列/智慧.md",
     "02 - “怎么办”系列/催生.md",
     "02 - “怎么办”系列/举报.md",
@@ -288,10 +292,6 @@
     "01 - “是什么”系列/性感.md",
     "01 - “是什么”系列/恋爱的意义.md",
     "03 - “如何看待”系列/追爱.md",
-    "03 - “如何看待”系列/不婚族.md",
-    "02 - “怎么办”系列/差不多就好.md",
-    "04 - “好好活着”系列/玻璃心 - 预备通关.md",
-    "01 - “是什么”系列/改变.md",
     "temp.test.ipynb",
     "tempCodeRunnerFile.julia",
     "“是什么”系列",
