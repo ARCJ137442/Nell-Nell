@@ -1,4 +1,5 @@
 # 读者协议 Updated Agreement
+
 [你有哪些话想对知乎上关注你的人说？](https://www.zhihu.com/question/264373660/answer/1812786628)
 
 > Author: #NellNell
@@ -7,14 +8,13 @@
 > Tag:
 > 沙海拾金:
 
-
 请在关注、留言、互动前阅读此协议。
 
 这个账号是我个人在知乎上的“家”，我非常珍惜它，也希望由它聚集在一起的团体是一个和平、开放、包容、有爱的地方。为此，我事先声明，
 
-_——你阅读我的回答，就是我的客人。我愿意以礼待客，同时也请你遵守“家规”。客人有遵守主人家规的义务，主人有驱逐践踏家规者的权力。驱逐的方式有且不限于删评、控评、拉黑、取关，这并非对你个人有什么意见，只是你所表现出来的心理、行为、倾向暂时不适合来这里做客罢了（类似音乐会有年龄限制的门槛），望周知。_
+*——你阅读我的回答，就是我的客人。我愿意以礼待客，同时也请你遵守“家规”。客人有遵守主人家规的义务，主人有驱逐践踏家规者的权力。驱逐的方式有且不限于删评、控评、拉黑、取关，这并非对你个人有什么意见，只是你所表现出来的心理、行为、倾向暂时不适合来这里做客罢了（类似音乐会有年龄限制的门槛），望周知。*
 
-## 1. 立场问题：
+## 1. 立场问题
 
 我希望关注我是因为我讲道理，而不是因为我的立场。
 
@@ -36,7 +36,7 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 ---
 
-## 2. 关注的领域：
+## 2. 关注的领域
 
 总的来说我比较关注社科和信仰方面。
 
@@ -56,7 +56,7 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 ---
 
-## 3. 主线：
+## 3. 主线
 
 我所有的回答，不管跨越多大的领域，其中有一条主线。
 
@@ -96,7 +96,7 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 ---
 
-## 5. 关于评论、留言、删评和拉黑：
+## 5. 关于评论、留言、删评和拉黑
 
 最近知乎机器删评还是挺严重的。**分辨是机删还是我删的，删评伴随拉黑一般是我，删评没有被拉黑一般是机器**。
 
@@ -124,7 +124,7 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 ---
 
-## 6. 关于转载：
+## 6. 关于转载
 
 我的回答没有版权限制。
 
@@ -132,13 +132,13 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 ---
 
-## 7. 建议关注这个收藏夹：
+## 7. 建议关注这个收藏夹
 
 [爱的成长实践](https://www.zhihu.com/collection/569999776)
 
 ---
 
-## 8. 相关备份链接：
+## 8. 相关备份链接
 
 [# Nell Nell - 学习笔记](https://zhuanlan.zhihu.com/p/527129143)
 
@@ -152,11 +152,9 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 ---
 
-## 9. 一些帮助你阅读的分类（截止到7/7）：
+## 9. 一些帮助你阅读的分类（截止到7/7）
 
-  
-
-### “是什么”系列：
+### “是什么”系列
 
 “[[智慧]]”是什么？ [https://www.zhihu.com/question/66895246/answer/2254393163](https://www.zhihu.com/question/66895246/answer/2254393163)
 
@@ -256,9 +254,7 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 [[释然|什么是真正的释怀]]？ [https://www.zhihu.com/question/30256563/answer/2432886896](https://www.zhihu.com/question/30256563/answer/2432886896)
 
-  
-
-### “怎么办”系列：
+### “怎么办”系列
 
 如何让自己变得[[开心]]起来？ [https://www.zhihu.com/question/20657503/answer/2554785917](https://www.zhihu.com/question/20657503/answer/2554785917)
 
@@ -448,17 +444,15 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 [[表达冒犯|如何优雅且有效地传达“你冒犯到我了”？]] [https://www.zhihu.com/question/31087234/answer/2409413521](https://www.zhihu.com/question/31087234/answer/2409413521)
 
-  
+### “如何看待”系列
 
-### “如何看待”系列：
-
-[[血腥独立日|如何看待美国芝加哥经历「血腥」独立日周末？]][https://www.zhihu.com/question/541428668/answer/2560799031](https://www.zhihu.com/question/541428668/answer/2560799031)
+[[血腥独立日|如何看待美国芝加哥经历「血腥」独立日周末？]] [https://www.zhihu.com/question/541428668/answer/2560799031](https://www.zhihu.com/question/541428668/answer/2560799031)
 
 [[圈地|如何看待「非洲有面包树、捡不完的芒果、猎不完的兽群，生活条件不会差」的说法，和非洲多饥荒的说法相矛盾？]] [https://www.zhihu.com/question/537934591/answer/2548773011](https://www.zhihu.com/question/537934591/answer/2548773011)
 
 [[美国法案|如何看待拜登称美最高法院推翻「罗诉韦德案」是「悲剧性错误」？]] [https://www.zhihu.com/question/539543493/answer/2545118676](https://www.zhihu.com/question/539543493/answer/2545118676)
 
-[[反堕胎|如何看待美国最高法院推翻「罗诉韦德案」？]][https://www.zhihu.com/question/539465390/answer/2543668104](https://www.zhihu.com/question/539465390/answer/2543668104)
+[[反堕胎|如何看待美国最高法院推翻「罗诉韦德案」？]] [https://www.zhihu.com/question/539465390/answer/2543668104](https://www.zhihu.com/question/539465390/answer/2543668104)
 
 [[《爱情神话》|看完电影《爱情神话》你有什么感受？]] [https://www.zhihu.com/question/508105053/answer/2540699493](https://www.zhihu.com/question/508105053/answer/2540699493)
 
@@ -472,7 +466,7 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 [[《现代弥赛亚》|如何评价电视剧《现代弥赛亚》？]] [https://www.zhihu.com/question/364074926/answer/2519267216](https://www.zhihu.com/question/364074926/answer/2519267216)
 
-[[父母恩|如何看待父母无恩论？]][https://www.zhihu.com/question/26860040/answer/2516491313](https://www.zhihu.com/question/26860040/answer/2516491313)
+[[父母恩|如何看待父母无恩论？]] [https://www.zhihu.com/question/26860040/answer/2516491313](https://www.zhihu.com/question/26860040/answer/2516491313)
 
 [[屠杀|如何看待美国一 18岁高中生在小学枪杀 21 人？]] [https://www.zhihu.com/question/534443107/answer/2501757189](https://www.zhihu.com/question/534443107/answer/2501757189)
 
@@ -500,15 +494,15 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 [[内卷|如何看待“内卷”？]] [https://www.zhihu.com/question/426828243/answer/1540278558](https://www.zhihu.com/question/426828243/answer/1540278558)
 
-[[麻木|如何看待“麻木”？]][https://www.zhihu.com/question/418748546/answer/1538280603](https://www.zhihu.com/question/418748546/answer/1538280603)
+[[麻木|如何看待“麻木”？]] [https://www.zhihu.com/question/418748546/answer/1538280603](https://www.zhihu.com/question/418748546/answer/1538280603)
 
-[[种族|如何看待“种族”？]][https://www.zhihu.com/question/266712170/answer/318123634](https://www.zhihu.com/question/266712170/answer/318123634)
+[[种族|如何看待“种族”？]] [https://www.zhihu.com/question/266712170/answer/318123634](https://www.zhihu.com/question/266712170/answer/318123634)
 
 [[打孩子|如何看待“打孩子”？]] [https://www.zhihu.com/question/499271333/answer/2228110359](https://www.zhihu.com/question/499271333/answer/2228110359)
 
 [[塔利班|如何看待“塔利班”？]] [https://www.zhihu.com/question/471900217/answer/2069438838](https://www.zhihu.com/question/471900217/answer/2069438838)
 
-[[葛优躺|如何看待“葛优躺”？]][https://www.zhihu.com/question/467943476/answer/1966037157](https://www.zhihu.com/question/467943476/answer/1966037157)
+[[葛优躺|如何看待“葛优躺”？]] [https://www.zhihu.com/question/467943476/answer/1966037157](https://www.zhihu.com/question/467943476/answer/1966037157)
 
 [[比邻星|如何看待“比邻星”？]] [https://www.zhihu.com/question/466831236/answer/1961618382](https://www.zhihu.com/question/466831236/answer/1961618382)
 
@@ -518,11 +512,11 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 [[做题家|如何看待“做题家”？]] [https://www.zhihu.com/question/413158786/answer/1619636536](https://www.zhihu.com/question/413158786/answer/1619636536)
 
-[[母系社会|如何看待“母系社会”？]][https://www.zhihu.com/question/31170156/answer/901521142](https://www.zhihu.com/question/31170156/answer/901521142)
+[[母系社会|如何看待“母系社会”？]] [https://www.zhihu.com/question/31170156/answer/901521142](https://www.zhihu.com/question/31170156/answer/901521142)
 
 [[宏大叙事|如何看待“宏大叙事”？]] [https://www.zhihu.com/question/489766847/answer/2222602216](https://www.zhihu.com/question/489766847/answer/2222602216)
 
-[[人格分类|如何看待“人格分类”？]][https://www.zhihu.com/question/38711687/answer/959270361](https://www.zhihu.com/question/38711687/answer/959270361)
+[[人格分类|如何看待“人格分类”？]] [https://www.zhihu.com/question/38711687/answer/959270361](https://www.zhihu.com/question/38711687/answer/959270361)
 
 [[文化输出|如何看待“文化输出”？]] [https://www.zhihu.com/question/387797541/answer/1221714710](https://www.zhihu.com/question/387797541/answer/1221714710)
 
@@ -532,7 +526,7 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 [[老年追星|如何看待“老年追星”？]] [https://www.zhihu.com/question/426683956/answer/1536416590](https://www.zhihu.com/question/426683956/answer/1536416590)
 
-[[社会公约|如何看待“社会公约”？]][https://www.zhihu.com/question/48994434/answer/1950112901](https://www.zhihu.com/question/48994434/answer/1950112901)
+[[社会公约|如何看待“社会公约”？]] [https://www.zhihu.com/question/48994434/answer/1950112901](https://www.zhihu.com/question/48994434/answer/1950112901)
 
 [[职场霸凌|如何看待“职场霸凌”？]] [https://www.zhihu.com/question/462014220/answer/1913172618](https://www.zhihu.com/question/462014220/answer/1913172618)
 
@@ -554,17 +548,17 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 [[集体右转|如何看待世界集体右转？]] [https://www.zhihu.com/question/48941008/answer/1294174946](https://www.zhihu.com/question/48941008/answer/1294174946)
 
-[[婚姻的意义|如何看待比尔·盖茨离婚？]][https://www.zhihu.com/question/457737040/answer/1867804357](https://www.zhihu.com/question/457737040/answer/1867804357)
+[[婚姻的意义|如何看待比尔·盖茨离婚？]] [https://www.zhihu.com/question/457737040/answer/1867804357](https://www.zhihu.com/question/457737040/answer/1867804357)
 
 [[政治正确的模特|如何看待“政治正确的模特”？]] [https://www.zhihu.com/question/403950192/answer/1310172379](https://www.zhihu.com/question/403950192/answer/1310172379)
 
-[[无偿分享知识|如何看待无偿分享知识？]][https://www.zhihu.com/question/22624255/answer/1726492576](https://www.zhihu.com/question/22624255/answer/1726492576)
+[[无偿分享知识|如何看待无偿分享知识？]] [https://www.zhihu.com/question/22624255/answer/1726492576](https://www.zhihu.com/question/22624255/answer/1726492576)
 
 [[中等收入陷阱|如何看待“中等收入陷阱”？]] [https://www.zhihu.com/question/454674600/answer/1841945808](https://www.zhihu.com/question/454674600/answer/1841945808)
 
 [[西方话语体系|如何看待“西方话语体系”？]] [https://www.zhihu.com/question/268743534/answer/1810908010](https://www.zhihu.com/question/268743534/answer/1810908010)
 
-[[西方中心论|如何看待“西方中心论”？]][https://www.zhihu.com/question/30498339/answer/1729164685](https://www.zhihu.com/question/30498339/answer/1729164685)
+[[西方中心论|如何看待“西方中心论”？]] [https://www.zhihu.com/question/30498339/answer/1729164685](https://www.zhihu.com/question/30498339/answer/1729164685)
 
 [[泼辣的大妈|如何看待“泼辣的大妈”？]] [https://www.zhihu.com/question/436956581/answer/1656517736](https://www.zhihu.com/question/436956581/answer/1656517736)
 
@@ -574,7 +568,7 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 [[不婚族|如何看待女性不想结婚？]] [https://www.zhihu.com/question/294994611/answer/629199410](https://www.zhihu.com/question/294994611/answer/629199410)
 
-[[反智主义|如何看待美国反智主义？]][https://www.zhihu.com/question/22922167/answer/1444768724](https://www.zhihu.com/question/22922167/answer/1444768724)
+[[反智主义|如何看待美国反智主义？]] [https://www.zhihu.com/question/22922167/answer/1444768724](https://www.zhihu.com/question/22922167/answer/1444768724)
 
 [[性|如何看待没有性经历的男性？]] [https://www.zhihu.com/question/459871538/answer/1997196697](https://www.zhihu.com/question/459871538/answer/1997196697)
 
@@ -586,7 +580,7 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 [[小丑|如何看待“小丑竟是我自己”？]] [https://www.zhihu.com/question/435578338/answer/1659466036](https://www.zhihu.com/question/435578338/answer/1659466036)
 
-[[中国的贡献|如何看待中国对人类现代文明的贡献？]][https://www.zhihu.com/question/413077543/answer/1507763244](https://www.zhihu.com/question/413077543/answer/1507763244)
+[[中国的贡献|如何看待中国对人类现代文明的贡献？]] [https://www.zhihu.com/question/413077543/answer/1507763244](https://www.zhihu.com/question/413077543/answer/1507763244)
 
 [[宗教的分别与排他|怎样看待有宗教信仰者被排斥？]] [https://www.zhihu.com/question/34117930/answer/2016790451](https://www.zhihu.com/question/34117930/answer/2016790451)
 
@@ -598,15 +592,15 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 [[拜登的承诺|如何看待拜登承认奥斯曼帝国对亚美尼亚人大屠杀是「种族灭绝行为」？]] [https://www.zhihu.com/question/456438788/answer/1854873047](https://www.zhihu.com/question/456438788/answer/1854873047)
 
-[[美国大选|如何看待美东时间 9 月 29 日美国大选首场辩论？]][https://www.zhihu.com/question/423566768/answer/1501852693](https://www.zhihu.com/question/423566768/answer/1501852693)
+[[美国大选|如何看待美东时间 9 月 29 日美国大选首场辩论？]] [https://www.zhihu.com/question/423566768/answer/1501852693](https://www.zhihu.com/question/423566768/answer/1501852693)
 
 [[拜登之胜|如何看待 2020 美国大选拜登获胜？]] [https://www.zhihu.com/question/429281633/answer/1566002800](https://www.zhihu.com/question/429281633/answer/1566002800)
 
 [[拜登的挑战|如何看待2021 年 1 月 20 日拜登正式宣誓就职美国总统？]] [https://www.zhihu.com/question/440372225/answer/1689121348](https://www.zhihu.com/question/440372225/answer/1689121348)
 
-[[澳洲的发难|如何看待澳大利亚总理要求中国道歉？]][https://www.zhihu.com/question/432654448/answer/1604021070](https://www.zhihu.com/question/432654448/answer/1604021070)
+[[澳洲的发难|如何看待澳大利亚总理要求中国道歉？]] [https://www.zhihu.com/question/432654448/answer/1604021070](https://www.zhihu.com/question/432654448/answer/1604021070)
 
-[[03 - “如何看待”系列/弦外之音|如何看待全国人大表决通过完善香港选举制度的决定？]][https://www.zhihu.com/question/447712125/answer/1775272050](https://www.zhihu.com/question/447712125/answer/1775272050)
+[[03 - “如何看待”系列/弦外之音|如何看待全国人大表决通过完善香港选举制度的决定？]] [https://www.zhihu.com/question/447712125/answer/1775272050](https://www.zhihu.com/question/447712125/answer/1775272050)
 
 [[亚细亚的孤儿|如何看待2021 年 3 月 1 日禁止台湾菠萝入境？]] [https://www.zhihu.com/question/446790267/answer/1757690207](https://www.zhihu.com/question/446790267/answer/1757690207)
 
@@ -614,7 +608,7 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 [[男女平等|如何看待男同事「不是男女平等吗？换桶装水你们也可以干」的言论？]] [https://www.zhihu.com/question/360549913/answer/1755710462](https://www.zhihu.com/question/360549913/answer/1755710462)
 
-[[有法可依|如何看待轮椅上的小仙女陈小平摔倒后重伤去世一事？]][https://www.zhihu.com/question/439962892/answer/1685821397](https://www.zhihu.com/question/439962892/answer/1685821397)
+[[有法可依|如何看待轮椅上的小仙女陈小平摔倒后重伤去世一事？]] [https://www.zhihu.com/question/439962892/answer/1685821397](https://www.zhihu.com/question/439962892/answer/1685821397)
 
 [[First Aid|如何看待山东临沂一初三学生体育课跑步时猝死？]] [https://www.zhihu.com/question/420423650/answer/1465502780](https://www.zhihu.com/question/420423650/answer/1465502780)
 
@@ -640,9 +634,7 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 [[布查|如何看待乌克兰指责俄罗斯军方在基辅屠杀 410 平民，俄方否认称是「挑衅」？真实情况如何？]] [https://www.zhihu.com/question/525901706/answer/2423388246](https://www.zhihu.com/question/525901706/answer/2423388246)
 
-  
-
-### “好好活着”系列：
+### “好好活着”系列
 
 [[灵魂不灭|年轻的我该怎么继续活下去？]] [https://www.zhihu.com/question/533665465/answer/2495700007](https://www.zhihu.com/question/533665465/answer/2495700007)
 
@@ -659,7 +651,5 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 [[真正安慰|今天我亲爱的女儿自杀了，还有八天就是她的生日了，她在20年被确诊为双相，她是真的没有病痛了吗？]] [https://www.zhihu.com/question/509331217/answer/2347067086](https://www.zhihu.com/question/509331217/answer/2347067086)
 
 [[救|如果身边不熟的人要自杀应该怎么办？]] [https://www.zhihu.com/question/516216318/answer/2373062480](https://www.zhihu.com/question/516216318/answer/2373062480)
-
-  
 
 （此声明随时更新）
