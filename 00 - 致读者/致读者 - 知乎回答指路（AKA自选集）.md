@@ -159,7 +159,7 @@
 
 ### 2. 处理与他人的关系
 
-[看穿别人](https://www.zhihu.com/question/27095943/answer/1977646255)
+[[看穿|看穿别人]](https://www.zhihu.com/question/27095943/answer/1977646255)
 
 [[关系与输赢|ta不主动找我]](https://www.zhihu.com/question/54745381/answer/2596135767)
 
@@ -183,13 +183,13 @@
 
 [[表达冒犯|表达冒犯]](https://www.zhihu.com/question/31087234/answer/2409413521)
 
-[看不起人](https://www.zhihu.com/question/26828496/answer/2028561601)
+[[避免轻看人|看不起人]](https://www.zhihu.com/question/26828496/answer/2028561601)
 
 [[欠钱不还|欠钱不还]](https://www.zhihu.com/question/302015138/answer/893452852)
 
-[沉浸在负面情绪中](https://www.zhihu.com/question/26444778/answer/2008775283)
+[[负面沉浸|沉浸在负面情绪中]](https://www.zhihu.com/question/26444778/answer/2008775283)
 
-[担心给别人带来困扰](https://www.zhihu.com/question/471971464/answer/2001335060)
+[[怕亏欠|担心给别人带来困扰]](https://www.zhihu.com/question/471971464/answer/2001335060)
 
 [[情商低|情商低]](https://www.zhihu.com/question/388178104/answer/1321428721)
 
