@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - 致读者/致读者 - 知乎回答指路（AKA自选集）.md",
+                "file": "01 - “是什么”系列/人之初.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "致读者 - 知乎回答指路（AKA自选集）"
+              "title": "人之初"
             }
           },
           {
@@ -189,8 +189,7 @@
               "title": "接受最差的一面"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,7 +220,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "大多数人在做出极端决定前都会有一个求救期",
+                "query": "\"https://www.zhihu.com/question/448994477/answer/2576997953\"",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -237,7 +236,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 287.5110321044922
   },
   "right": {
     "id": "3283e38a99c06233",
@@ -254,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - 致读者/致读者 - 读者协议 Updated Agreement.md",
+                "file": "01 - “是什么”系列/人之初.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +263,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "致读者 - 读者协议 Updated Agreement 的反向链接列表"
+              "title": "人之初 的反向链接列表"
             }
           },
           {
@@ -334,14 +333,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc98ae3a7378d96c",
+  "active": "ef439ef9c29f0891",
   "lastOpenFiles": [
-    "03 - “如何看待”系列/找伴侣.md",
+    "temp.test.ipynb",
+    "tempCodeRunnerFile.julia",
+    "01 - “是什么”系列/真正的善.md",
+    "01 - “是什么”系列/人之初.md",
+    "“是什么”系列/人之初.md",
+    "“是什么”系列",
+    "00 - 致读者/致读者 - 知乎回答指路（AKA自选集）.md",
     "00 - 致读者/致读者 - 读者协议 Updated Agreement.md",
+    "03 - “如何看待”系列/找伴侣.md",
     "02 - “怎么办”系列/爱与被爱.md",
     "01 - “是什么”系列/灵魂.md",
     "05 - 圣经 & 神学/灵魂不灭.md",
-    "00 - 致读者/致读者 - 知乎回答指路（AKA自选集）.md",
     "03 - “如何看待”系列/政治性抑郁.md",
     "03 - “如何看待”系列/追爱.md",
     "03 - “如何看待”系列/不婚族.md",
@@ -358,10 +363,6 @@
     "04 - “好好活着”系列/五饼二鱼.md",
     "03 - “如何看待”系列/心灵课程.md",
     "03 - “如何看待”系列/职场霸凌.md",
-    "03 - “如何看待”系列/打工人.md",
-    "03 - “如何看待”系列/普信男.md",
-    "03 - “如何看待”系列/打孩子.md",
-    "03 - “如何看待”系列/贫穷.md",
     "转载授权/转载授权_NellNell.PNG"
   ]
 }

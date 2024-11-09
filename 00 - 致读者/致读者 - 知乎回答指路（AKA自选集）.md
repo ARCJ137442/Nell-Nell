@@ -49,7 +49,7 @@
 
 ## 打地基：建立底层逻辑
 
-[爱是世界的机制](https://www.zhihu.com/question/489771645/answer/2799458956)
+[[爱的产生|爱是世界的机制]](https://www.zhihu.com/question/489771645/answer/2799458956)
 
 [世界归根到底是善的](https://www.zhihu.com/question/448994477/answer/2576997953)
 
