@@ -482,73 +482,73 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 【荒原】如何看待“悔改的洗礼” [https://www.zhihu.com/question/322186518/answer/2443488725](https://www.zhihu.com/question/322186518/answer/2443488725)
 
-如何看待“劝人”？ [https://www.zhihu.com/question/323510525/answer/2074162381](https://www.zhihu.com/question/323510525/answer/2074162381)
+[[劝人|如何看待“劝人”？]] [https://www.zhihu.com/question/323510525/answer/2074162381](https://www.zhihu.com/question/323510525/answer/2074162381)
 
-如何看待“相信”？ [https://www.zhihu.com/question/469081139/answer/1981183914](https://www.zhihu.com/question/469081139/answer/1981183914)
+[[相信|如何看待“相信”？]] [https://www.zhihu.com/question/469081139/answer/1981183914](https://www.zhihu.com/question/469081139/answer/1981183914)
 
-如何看待“国足”？ [https://www.zhihu.com/question/469611558/answer/1992535164](https://www.zhihu.com/question/469611558/answer/1992535164)
+[[国足|如何看待“国足”？]] [https://www.zhihu.com/question/469611558/answer/1992535164](https://www.zhihu.com/question/469611558/answer/1992535164)
 
-如何看待“上火”? [https://www.zhihu.com/question/452706838/answer/1820923836](https://www.zhihu.com/question/452706838/answer/1820923836)
+[[上火|如何看待“上火”？]] [https://www.zhihu.com/question/452706838/answer/1820923836](https://www.zhihu.com/question/452706838/answer/1820923836)
 
-如何看待“皮卡”？ [https://www.zhihu.com/question/48425484/answer/1766420041](https://www.zhihu.com/question/48425484/answer/1766420041)
+[[皮卡|如何看待“皮卡”？]] [https://www.zhihu.com/question/48425484/answer/1766420041](https://www.zhihu.com/question/48425484/answer/1766420041)
 
-如何看待“贫穷”？ [https://www.zhihu.com/question/304960873/answer/1707399183](https://www.zhihu.com/question/304960873/answer/1707399183)
+[[贫穷|如何看待“贫穷”？]] [https://www.zhihu.com/question/304960873/answer/1707399183](https://www.zhihu.com/question/304960873/answer/1707399183)
 
-如何看待“丁真”? [https://www.zhihu.com/question/434068261/answer/1622931649](https://www.zhihu.com/question/434068261/answer/1622931649)
+[[丁真|如何看待“丁真”？]] [https://www.zhihu.com/question/434068261/answer/1622931649](https://www.zhihu.com/question/434068261/answer/1622931649)
 
-如何看待“啃老”？ [https://www.zhihu.com/question/426308484/answer/1543293367](https://www.zhihu.com/question/426308484/answer/1543293367)
+[[啃老|如何看待“啃老”？]] [https://www.zhihu.com/question/426308484/answer/1543293367](https://www.zhihu.com/question/426308484/answer/1543293367)
 
-如何看待“内卷”？ [https://www.zhihu.com/question/426828243/answer/1540278558](https://www.zhihu.com/question/426828243/answer/1540278558)
+[[内卷|如何看待“内卷”？]] [https://www.zhihu.com/question/426828243/answer/1540278558](https://www.zhihu.com/question/426828243/answer/1540278558)
 
-如何看待“麻木”？[https://www.zhihu.com/question/418748546/answer/1538280603](https://www.zhihu.com/question/418748546/answer/1538280603)
+[[麻木|如何看待“麻木”？]][https://www.zhihu.com/question/418748546/answer/1538280603](https://www.zhihu.com/question/418748546/answer/1538280603)
 
-如何看待“种族”？[https://www.zhihu.com/question/266712170/answer/318123634](https://www.zhihu.com/question/266712170/answer/318123634)
+[[种族|如何看待“种族”？]][https://www.zhihu.com/question/266712170/answer/318123634](https://www.zhihu.com/question/266712170/answer/318123634)
 
-如何看待“打孩子”？ [https://www.zhihu.com/question/499271333/answer/2228110359](https://www.zhihu.com/question/499271333/answer/2228110359)
+[[打孩子|如何看待“打孩子”？]] [https://www.zhihu.com/question/499271333/answer/2228110359](https://www.zhihu.com/question/499271333/answer/2228110359)
 
-如何看待“塔利班”？ [https://www.zhihu.com/question/471900217/answer/2069438838](https://www.zhihu.com/question/471900217/answer/2069438838)
+[[塔利班|如何看待“塔利班”？]] [https://www.zhihu.com/question/471900217/answer/2069438838](https://www.zhihu.com/question/471900217/answer/2069438838)
 
-如何看待“葛优躺”？[https://www.zhihu.com/question/467943476/answer/1966037157](https://www.zhihu.com/question/467943476/answer/1966037157)
+[[葛优躺|如何看待“葛优躺”？]][https://www.zhihu.com/question/467943476/answer/1966037157](https://www.zhihu.com/question/467943476/answer/1966037157)
 
-如何看待“比邻星”？ [https://www.zhihu.com/question/466831236/answer/1961618382](https://www.zhihu.com/question/466831236/answer/1961618382)
+[[比邻星|如何看待“比邻星”？]] [https://www.zhihu.com/question/466831236/answer/1961618382](https://www.zhihu.com/question/466831236/answer/1961618382)
 
-如何看待“普信男”？ [https://www.zhihu.com/question/452404710/answer/1816205036](https://www.zhihu.com/question/452404710/answer/1816205036)
+[[普信男|如何看待“普信男”？]] [https://www.zhihu.com/question/452404710/answer/1816205036](https://www.zhihu.com/question/452404710/answer/1816205036)
 
-如何看待“打工人”？ [https://www.zhihu.com/question/425754687/answer/1529986952](https://www.zhihu.com/question/425754687/answer/1529986952)
+[[打工人|如何看待“打工人”？]] [https://www.zhihu.com/question/425754687/answer/1529986952](https://www.zhihu.com/question/425754687/answer/1529986952)
 
-如何看待“做题家”？ [https://www.zhihu.com/question/413158786/answer/1619636536](https://www.zhihu.com/question/413158786/answer/1619636536)
+[[做题家|如何看待“做题家”？]] [https://www.zhihu.com/question/413158786/answer/1619636536](https://www.zhihu.com/question/413158786/answer/1619636536)
 
-如何看待“母系社会”？[https://www.zhihu.com/question/31170156/answer/901521142](https://www.zhihu.com/question/31170156/answer/901521142)
+[[母系社会|如何看待“母系社会”？]][https://www.zhihu.com/question/31170156/answer/901521142](https://www.zhihu.com/question/31170156/answer/901521142)
 
-如何看待“宏大叙事”？ [https://www.zhihu.com/question/489766847/answer/2222602216](https://www.zhihu.com/question/489766847/answer/2222602216)
+[[宏大叙事|如何看待“宏大叙事”？]] [https://www.zhihu.com/question/489766847/answer/2222602216](https://www.zhihu.com/question/489766847/answer/2222602216)
 
-如何看待“人格分类”？[https://www.zhihu.com/question/38711687/answer/959270361](https://www.zhihu.com/question/38711687/answer/959270361)
+[[人格分类|如何看待“人格分类”？]][https://www.zhihu.com/question/38711687/answer/959270361](https://www.zhihu.com/question/38711687/answer/959270361)
 
-如何看待“文化输出”？ [https://www.zhihu.com/question/387797541/answer/1221714710](https://www.zhihu.com/question/387797541/answer/1221714710)
+[[文化输出|如何看待“文化输出”？]] [https://www.zhihu.com/question/387797541/answer/1221714710](https://www.zhihu.com/question/387797541/answer/1221714710)
 
-如何看待“权力和性”？ [https://www.zhihu.com/question/21204199/answer/2071783812](https://www.zhihu.com/question/21204199/answer/2071783812)
+[[权力和性|如何看待“权力和性”？]] [https://www.zhihu.com/question/21204199/answer/2071783812](https://www.zhihu.com/question/21204199/answer/2071783812)
 
-如何看待“天使数字”？ [https://www.zhihu.com/question/361213725/answer/1990892827](https://www.zhihu.com/question/361213725/answer/1990892827)
+[[天使数字|如何看待“天使数字”？]] [https://www.zhihu.com/question/361213725/answer/1990892827](https://www.zhihu.com/question/361213725/answer/1990892827)
 
-如何看待“老年追星”？ [https://www.zhihu.com/question/426683956/answer/1536416590](https://www.zhihu.com/question/426683956/answer/1536416590)
+[[老年追星|如何看待“老年追星”？]] [https://www.zhihu.com/question/426683956/answer/1536416590](https://www.zhihu.com/question/426683956/answer/1536416590)
 
-如何看待“社会公约”？[https://www.zhihu.com/question/48994434/answer/1950112901](https://www.zhihu.com/question/48994434/answer/1950112901)
+[[社会公约|如何看待“社会公约”？]][https://www.zhihu.com/question/48994434/answer/1950112901](https://www.zhihu.com/question/48994434/answer/1950112901)
 
-如何看待“职场霸凌”？ [https://www.zhihu.com/question/462014220/answer/1913172618](https://www.zhihu.com/question/462014220/answer/1913172618)
+[[职场霸凌|如何看待“职场霸凌”？]] [https://www.zhihu.com/question/462014220/answer/1913172618](https://www.zhihu.com/question/462014220/answer/1913172618)
 
-如何看待“春捂秋冻”？ [https://www.zhihu.com/question/491641119/answer/2171687505](https://www.zhihu.com/question/491641119/answer/2171687505)
+[[春捂秋冻|如何看待“春捂秋冻”？]] [https://www.zhihu.com/question/491641119/answer/2171687505](https://www.zhihu.com/question/491641119/answer/2171687505)
 
-如何看待“心灵课程”？ [https://www.zhihu.com/question/480877334/answer/2080331689](https://www.zhihu.com/question/480877334/answer/2080331689)
+[[心灵课程|如何看待“心灵课程”？]] [https://www.zhihu.com/question/480877334/answer/2080331689](https://www.zhihu.com/question/480877334/answer/2080331689)
 
-如何看待“放弃保研”? [https://www.zhihu.com/question/457074718/answer/1860695963](https://www.zhihu.com/question/457074718/answer/1860695963)
+[[放弃保研|如何看待“放弃保研”？]] [https://www.zhihu.com/question/457074718/answer/1860695963](https://www.zhihu.com/question/457074718/answer/1860695963)
 
-如何看待“报复社会”？ [https://www.zhihu.com/question/406493288/answer/1335030217](https://www.zhihu.com/question/406493288/answer/1335030217)
+[[报复社会|如何看待“报复社会”？]] [https://www.zhihu.com/question/406493288/answer/1335030217](https://www.zhihu.com/question/406493288/answer/1335030217)
 
-如何看待“君子远庖厨”？ [https://www.zhihu.com/question/22341969/answer/1881268325](https://www.zhihu.com/question/22341969/answer/1881268325)
+[[君子远庖厨|如何看待“君子远庖厨”？]] [https://www.zhihu.com/question/22341969/answer/1881268325](https://www.zhihu.com/question/22341969/answer/1881268325)
 
-如何看待“分子人类学”？ [https://www.zhihu.com/question/466310147/answer/2003133130](https://www.zhihu.com/question/466310147/answer/2003133130)
+[[分子人类学|如何看待“分子人类学”？]] [https://www.zhihu.com/question/466310147/answer/2003133130](https://www.zhihu.com/question/466310147/answer/2003133130)
 
-如何看待“飞天意面神教”？ [https://www.zhihu.com/question/48834521/answer/798066266](https://www.zhihu.com/question/48834521/answer/798066266)
+[[飞天意面神教|如何看待“飞天意面神教”？]] [https://www.zhihu.com/question/48834521/answer/798066266](https://www.zhihu.com/question/48834521/answer/798066266)
 
 如何看待印第安原住民？ [https://www.zhihu.com/question/471060396/answer/1989094373](https://www.zhihu.com/question/471060396/answer/1989094373)
 
@@ -556,17 +556,17 @@ _——你阅读我的回答，就是我的客人。我愿意以礼待客，同�
 
 如何看待比尔·盖茨离婚？[https://www.zhihu.com/question/457737040/answer/1867804357](https://www.zhihu.com/question/457737040/answer/1867804357)
 
-如何看待“政治正确的模特”？ [https://www.zhihu.com/question/403950192/answer/1310172379](https://www.zhihu.com/question/403950192/answer/1310172379)
+[[政治正确的模特|如何看待“政治正确的模特”？]] [https://www.zhihu.com/question/403950192/answer/1310172379](https://www.zhihu.com/question/403950192/answer/1310172379)
 
 如何看待无偿分享知识？ [https://www.zhihu.com/question/22624255/answer/1726492576](https://www.zhihu.com/question/22624255/answer/1726492576)
 
-如何看待“中等收入陷阱"? [https://www.zhihu.com/question/454674600/answer/1841945808](https://www.zhihu.com/question/454674600/answer/1841945808)
+[[中等收入|如何看待“中等收入陷阱]]"？ [https://www.zhihu.com/question/454674600/answer/1841945808](https://www.zhihu.com/question/454674600/answer/1841945808)
 
-如何看待“西方话语体系”？ [https://www.zhihu.com/question/268743534/answer/1810908010](https://www.zhihu.com/question/268743534/answer/1810908010)
+[[西方话语体系|如何看待“西方话语体系”？]] [https://www.zhihu.com/question/268743534/answer/1810908010](https://www.zhihu.com/question/268743534/answer/1810908010)
 
-如何看待“西方中心论”？[https://www.zhihu.com/question/30498339/answer/1729164685](https://www.zhihu.com/question/30498339/answer/1729164685)
+[[西方中心论|如何看待“西方中心论”？]][https://www.zhihu.com/question/30498339/answer/1729164685](https://www.zhihu.com/question/30498339/answer/1729164685)
 
-如何看待“泼辣的大妈”？ [https://www.zhihu.com/question/436956581/answer/1656517736](https://www.zhihu.com/question/436956581/answer/1656517736)
+[[泼辣的大妈|如何看待“泼辣的大妈”？]] [https://www.zhihu.com/question/436956581/answer/1656517736](https://www.zhihu.com/question/436956581/answer/1656517736)
 
 如何看待在公共领域发言？ [https://www.zhihu.com/question/449089292/answer/1778319226](https://www.zhihu.com/question/449089292/answer/1778319226)
 
