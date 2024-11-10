@@ -5,8 +5,23 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#status-在读  ",
+      "color": {
+        "a": 1,
+        "rgb": 8183890
+      }
+    },
+    {
+      "query": "tag:#status-已阅  ",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.3613103748023405,
-  "close": false
+  "scale": 0.15712926310286532,
+  "close": true
 }

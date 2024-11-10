@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "07ccfb11f6a6a8c4",
+            "id": "b14ff5431d0dc1f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "ef439ef9c29f0891",
+            "id": "7e81361ebf9bcf77",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,20 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "致读者 - 知乎回答指路（AKA自选集）"
-            }
-          },
-          {
-            "id": "7e81361ebf9bcf77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - “如何看待”系列/找伴侣.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "找伴侣"
             }
           },
           {
@@ -92,34 +78,6 @@
             }
           },
           {
-            "id": "b14ff5431d0dc1f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - 致读者/致读者 - 读者协议 Updated Agreement.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "致读者 - 读者协议 Updated Agreement"
-            }
-          },
-          {
-            "id": "a7c43339a17efea3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - “如何看待”系列/养娃投资.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "养娃投资"
-            }
-          },
-          {
             "id": "a585d169c10e3307",
             "type": "leaf",
             "state": {
@@ -129,7 +87,8 @@
               "title": "关系图谱"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -193,7 +152,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - 致读者/致读者 - 读者协议 Updated Agreement.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "致读者 - 读者协议 Updated Agreement 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -239,7 +197,8 @@
               "title": "Quiet Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1657ba56615883fb",
@@ -272,34 +231,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "07ccfb11f6a6a8c4",
+  "active": "a585d169c10e3307",
   "lastOpenFiles": [
-    "01 - “是什么”系列/话语权.md",
-    "01 - “是什么”系列/真正的善.md",
-    "03 - “如何看待”系列/君子远庖厨.md",
-    "00 - 致读者/致读者 - 读者协议 Updated Agreement.md",
-    "00 - 致读者/致读者 - 知乎回答指路（AKA自选集）.md",
-    "02 - “怎么办”系列/留守儿童沟通.md",
-    "04 - “好好活着”系列/留守儿童.md",
-    "01 - “是什么”系列/改变.md",
+    "沙海拾金/四大名著.md",
+    "01 - “是什么”系列/男人的默契.md",
     "02 - “怎么办”系列/走到一起.md",
     "03 - “如何看待”系列/不婚族.md",
+    "03 - “如何看待”系列/追爱.md",
+    "00 - 致读者/致读者 - 知乎回答指路（AKA自选集）.md",
+    "02 - “怎么办”系列/表达冒犯.md",
     "03 - “如何看待”系列/找伴侣.md",
-    "03 - “如何看待”系列/何谓中国人.md",
+    "00 - 致读者/致读者 - 读者协议 Updated Agreement.md",
+    "01 - “是什么”系列/恋爱的意义.md",
+    "03 - “如何看待”系列/理解与尊重.md",
+    "03 - “如何看待”系列/拐卖问题.md",
+    "03 - “如何看待”系列/男女平等.md",
+    "03 - “如何看待”系列/泼辣的大妈.md",
+    "04 - “好好活着”系列/五饼二鱼.md",
+    "03 - “如何看待”系列/心灵课程.md",
+    "03 - “如何看待”系列/职场霸凌.md",
+    "03 - “如何看待”系列/打工人.md",
+    "01 - “是什么”系列/赞美苦难.md",
+    "02 - “怎么办”系列/差不多就好.md",
+    "02 - “怎么办”系列/孩子的世界.md",
+    "02 - “怎么办”系列/动摇.md",
+    "03 - “如何看待”系列/空巢期.md",
+    "02 - “怎么办”系列/如何活.md",
     "03 - “如何看待”系列/婚姻的意义.md",
-    "沙海拾金/走到一起.md",
-    "02 - “怎么办”系列/无常.md",
-    "01 - “是什么”系列/智慧.md",
-    "02 - “怎么办”系列/催生.md",
-    "02 - “怎么办”系列/举报.md",
-    "02 - “怎么办”系列/婚戒.md",
-    "09 - 简答/攀比.md",
-    "01 - “是什么”系列/爱与理解.md",
-    "01 - “是什么”系列/自律与自由.md",
-    "broken links output.md",
-    "01 - “是什么”系列/教养.md",
-    "03 - “如何看待”系列/丧偶式育儿.md",
-    "01 - “是什么”系列/性感.md",
+    "02 - “怎么办”系列/爱得痛苦.md",
     "temp.test.ipynb",
     "tempCodeRunnerFile.julia",
     "“是什么”系列",
