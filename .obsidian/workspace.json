@@ -90,9 +90,19 @@
               "icon": "lucide-file",
               "title": "啃老"
             }
+          },
+          {
+            "id": "d25be4d619037259",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -134,8 +144,7 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,7 +165,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - “如何看待”系列/啃老.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "啃老 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -236,8 +244,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a585d169c10e3307",
+  "active": "78adbaa0ce0f4f74",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "03 - “如何看待”系列/啃老.md",
     "沙海拾金/四大名著.md",
     "01 - “是什么”系列/男人的默契.md",
     "02 - “怎么办”系列/走到一起.md",
@@ -262,8 +272,6 @@
     "02 - “怎么办”系列/动摇.md",
     "03 - “如何看待”系列/空巢期.md",
     "02 - “怎么办”系列/如何活.md",
-    "03 - “如何看待”系列/婚姻的意义.md",
-    "02 - “怎么办”系列/爱得痛苦.md",
     "temp.test.ipynb",
     "tempCodeRunnerFile.julia",
     "“是什么”系列",
