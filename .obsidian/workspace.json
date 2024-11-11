@@ -157,7 +157,8 @@
               "title": "关系图谱"
             }
           }
-        ]
+        ],
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -299,7 +300,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70bee9b61b83dbb8",
+  "active": "a4de1c16b19be375",
   "lastOpenFiles": [
     "06 - 书评 & 影评/坠落的审判.md",
     "02 - “怎么办”系列/摆脱原生家庭.md",
