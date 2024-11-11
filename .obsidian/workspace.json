@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - “好好活着”系列/欲望转化.md",
+                "file": "02 - “怎么办”系列/结婚条件.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "欲望转化"
+              "title": "结婚条件"
             }
           },
           {
@@ -207,7 +207,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "果有些问题你无论如何找不到答案，有一",
+                "query": "身冲动下结婚，还是深思熟虑笃定着结婚，都没关系，前提",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -240,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - “好好活着”系列/欲望转化.md",
+                "file": "02 - “怎么办”系列/结婚条件.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "欲望转化 的反向链接列表"
+              "title": "结婚条件 的反向链接列表"
             }
           },
           {
@@ -319,10 +319,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc98ae3a7378d96c",
+  "active": "d0e3fecfc7f8b557",
   "lastOpenFiles": [
-    "02 - “怎么办”系列/首次被性侵.md",
+    "02 - “怎么办”系列/身世飘零.md",
+    "06 - 书评 & 影评/《北大宿舍聊天上野千鹤子》.md",
+    "03 - “如何看待”系列/性骚扰.md",
+    "02 - “怎么办”系列/异性交流.md",
+    "01 - “是什么”系列/有问题与有过错.md",
+    "03 - “如何看待”系列/剥虾.md",
+    "04 - “好好活着”系列/养生之道.md",
     "04 - “好好活着”系列/欲望转化.md",
+    "06 - 书评 & 影评/请君重作醉歌行.md",
+    "02 - “怎么办”系列/首次被性侵.md",
     "02 - “怎么办”系列/摆脱原生家庭.md",
     "01 - “是什么”系列/母爱本能.md",
     "01 - “是什么”系列/女性困境.md",
@@ -339,14 +347,6 @@
     "02 - “怎么办”系列/正确对待性.md",
     "02 - “怎么办”系列/Mind Your Own Business.md",
     "01 - “是什么”系列/独立女性.md",
-    "03 - “如何看待”系列/拐卖问题.md",
-    "01 - “是什么”系列/男人的默契.md",
-    "03 - “如何看待”系列/女权 - 错误方向.md",
-    "06 - 书评 & 影评/支持女权.md",
-    "03 - “如何看待”系列/男女平等.md",
-    "01 - “是什么”系列/性感.md",
-    "06 - 书评 & 影评/《另一个拉姆》.md",
-    "03 - “如何看待”系列/性教育.md",
     "temp.test.ipynb",
     "tempCodeRunnerFile.julia",
     "“是什么”系列",
