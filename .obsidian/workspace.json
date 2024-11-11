@@ -125,30 +125,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - “怎么办”系列/创作获益.md",
+                "file": "02 - “怎么办”系列/性满足.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "创作获益"
-            }
-          },
-          {
-            "id": "5a01e0f25a963fcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - “怎么办”系列/正确对待性.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "正确对待性"
+              "title": "性满足"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -179,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "女生怎样才能让自己的气质变得高贵很有气场和自信？",
+                "query": "，没有形象生动的故事支撑的情很容易流于虚浮和",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -212,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - “怎么办”系列/正确对待性.md",
+                "file": "02 - “怎么办”系列/性满足.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +208,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "正确对待性 的反向链接列表"
+              "title": "性满足 的反向链接列表"
             }
           },
           {
@@ -291,10 +277,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a01e0f25a963fcf",
+  "active": "cc98ae3a7378d96c",
   "lastOpenFiles": [
     "02 - “怎么办”系列/创作获益.md",
     "02 - “怎么办”系列/正确对待性.md",
+    "02 - “怎么办”系列/性满足.md",
+    "02 - “怎么办”系列/Mind Your Own Business.md",
     "02 - “怎么办”系列/外物显贵.md",
     "02 - “怎么办”系列/戒掉自慰.md",
     "03 - “如何看待”系列/啃老.md",
@@ -317,8 +305,6 @@
     "02 - “怎么办”系列/性骚扰.md",
     "01 - “是什么”系列/女士优先.md",
     "04 - “好好活着”系列/张桂梅.md",
-    "03 - “如何看待”系列/政治正确的模特.md",
-    "01 - “是什么”系列/女权.md",
     "temp.test.ipynb",
     "tempCodeRunnerFile.julia",
     "“是什么”系列",
