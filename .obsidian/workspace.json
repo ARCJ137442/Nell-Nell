@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - “如何看待”系列/选美.md",
+                "file": "02 - “怎么办”系列/IVG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "选美"
+              "title": "IVG"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mart is the new sexy；brains are the new t",
+                "query": "，现在就可以实现。我还可以将有可能发生的性别",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -252,6 +252,10 @@
   },
   "active": "d25be4d619037259",
   "lastOpenFiles": [
+    "03 - “如何看待”系列/所谓儿女.md",
+    "03 - “如何看待”系列/N号房.md",
+    "03 - “如何看待”系列/恶意.md",
+    "03 - “如何看待”系列/选美.md",
     "06 - 书评 & 影评/《婆婆妈妈》.md",
     "02 - “怎么办”系列/农村男性的出路.md",
     "03 - “如何看待”系列/MTF.md",
@@ -260,7 +264,6 @@
     "01 - “是什么”系列/见世面.md",
     "04 - “好好活着”系列/留守儿童.md",
     "02 - “怎么办”系列/留守儿童沟通.md",
-    "03 - “如何看待”系列/N号房.md",
     "04 - “好好活着”系列/丑而自卑.md",
     "02 - “怎么办”系列/随谁姓.md",
     "02 - “怎么办”系列/如何活.md",
@@ -275,9 +278,6 @@
     "03 - “如何看待”系列/选择的自由.md",
     "01 - “是什么”系列/真爱.md",
     "01 - “是什么”系列/真实的美.md",
-    "02 - “怎么办”系列/高贵气质.md",
-    "04 - “好好活着”系列/永远铭刻.md",
-    "01 - “是什么”系列/矫情.md",
     "temp.test.ipynb",
     "tempCodeRunnerFile.julia",
     "“是什么”系列",
