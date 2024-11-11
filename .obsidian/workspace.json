@@ -148,17 +148,31 @@
             }
           },
           {
+            "id": "c995603cac2d644f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - “怎么办”系列/爱自己.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "爱自己"
+            }
+          },
+          {
             "id": "d0e3fecfc7f8b557",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - “怎么办”系列/结婚条件.md",
+                "file": "04 - “好好活着”系列/女性的优势.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "结婚条件"
+              "title": "女性的优势"
             }
           },
           {
@@ -207,7 +221,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "身冲动下结婚，还是深思熟虑笃定着结婚，都没关系，前提",
+                "query": "对“德高望重”的男嘉宾说出这句",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -240,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - “怎么办”系列/结婚条件.md",
+                "file": "02 - “怎么办”系列/爱自己.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +264,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "结婚条件 的反向链接列表"
+              "title": "爱自己 的反向链接列表"
             }
           },
           {
@@ -319,8 +333,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0e3fecfc7f8b557",
+  "active": "c995603cac2d644f",
   "lastOpenFiles": [
+    "04 - “好好活着”系列/女性的优势.md",
+    "02 - “怎么办”系列/爱自己.md",
+    "02 - “怎么办”系列/摆脱原生家庭.md",
+    "01 - “是什么”系列/母爱本能.md",
+    "03 - “如何看待”系列/问题的根源.md",
+    "02 - “怎么办”系列/结婚条件.md",
     "02 - “怎么办”系列/身世飘零.md",
     "06 - 书评 & 影评/《北大宿舍聊天上野千鹤子》.md",
     "03 - “如何看待”系列/性骚扰.md",
@@ -331,8 +351,6 @@
     "04 - “好好活着”系列/欲望转化.md",
     "06 - 书评 & 影评/请君重作醉歌行.md",
     "02 - “怎么办”系列/首次被性侵.md",
-    "02 - “怎么办”系列/摆脱原生家庭.md",
-    "01 - “是什么”系列/母爱本能.md",
     "01 - “是什么”系列/女性困境.md",
     "03 - “如何看待”系列/爱情重要.md",
     "02 - “怎么办”系列/戒掉自慰.md",
@@ -343,10 +361,6 @@
     "04 - “好好活着”系列/脏.md",
     "03 - “如何看待”系列/既要还要.md",
     "02 - “怎么办”系列/性满足.md",
-    "02 - “怎么办”系列/创作获益.md",
-    "02 - “怎么办”系列/正确对待性.md",
-    "02 - “怎么办”系列/Mind Your Own Business.md",
-    "01 - “是什么”系列/独立女性.md",
     "temp.test.ipynb",
     "tempCodeRunnerFile.julia",
     "“是什么”系列",
