@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - “怎么办”系列/性满足.md",
+                "file": "04 - “好好活着”系列/脏.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "性满足"
+              "title": "脏"
             }
           }
         ],
@@ -165,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "，没有形象生动的故事支撑的情很容易流于虚浮和",
+                "query": "意思但常被忽视的现象，这个社会上男性可以获得很高的成就，这些成就可以成为他的免罪符，让他免于受到",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - “怎么办”系列/性满足.md",
+                "file": "04 - “好好活着”系列/脏.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "性满足 的反向链接列表"
+              "title": "脏 的反向链接列表"
             }
           },
           {
@@ -277,11 +277,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc98ae3a7378d96c",
+  "active": "42b08f4f4c54d569",
   "lastOpenFiles": [
+    "06 - 书评 & 影评/坠落的审判.md",
+    "04 - “好好活着”系列/脏.md",
+    "03 - “如何看待”系列/既要还要.md",
+    "02 - “怎么办”系列/性满足.md",
     "02 - “怎么办”系列/创作获益.md",
     "02 - “怎么办”系列/正确对待性.md",
-    "02 - “怎么办”系列/性满足.md",
     "02 - “怎么办”系列/Mind Your Own Business.md",
     "02 - “怎么办”系列/外物显贵.md",
     "02 - “怎么办”系列/戒掉自慰.md",
@@ -302,9 +305,6 @@
     "09 - 简答/幽默.md",
     "03 - “如何看待”系列/反女权的女性.md",
     "01 - “是什么”系列/处女情结.md",
-    "02 - “怎么办”系列/性骚扰.md",
-    "01 - “是什么”系列/女士优先.md",
-    "04 - “好好活着”系列/张桂梅.md",
     "temp.test.ipynb",
     "tempCodeRunnerFile.julia",
     "“是什么”系列",
