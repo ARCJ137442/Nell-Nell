@@ -165,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "意思但常被忽视的现象，这个社会上男性可以获得很高的成就，这些成就可以成为他的免罪符，让他免于受到",
+                "query": "有人管就行",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -277,7 +277,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42b08f4f4c54d569",
+  "active": "cc98ae3a7378d96c",
   "lastOpenFiles": [
     "06 - 书评 & 影评/坠落的审判.md",
     "04 - “好好活着”系列/脏.md",
