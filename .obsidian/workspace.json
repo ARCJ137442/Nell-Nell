@@ -200,8 +200,7 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -222,6 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04 - “好好活着”系列/工作的意义.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "工作的意义 的反向链接列表"
             }
           },
           {
@@ -288,8 +288,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "left-ribbon": {
     "hiddenItems": {
