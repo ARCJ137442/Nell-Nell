@@ -1,3 +1,5 @@
+#status/已阅/1 
+
 # Racial profiling
 
 [如何看待 Emory 大学生物学教授李晓江的实验室突遭校方关闭？](https://www.zhihu.com/question/325609989/answer/715138743)
@@ -5,7 +7,7 @@
 > Author: #NellNell
 > Last update: *28/08/2021*
 > Link:
-> Tag:
+> Tag: #学业与职业 
 > 沙海拾金:
 
 2016年初奥巴马政府宣布成立癌症研究的「登月计划」（Moonshot Program），目的为了缩短癌症研究的周期，核心策略是**跨国界的基础科学研究**：
