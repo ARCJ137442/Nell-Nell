@@ -1,4 +1,4 @@
-#status-已阅/1 
+#status/已阅/1 
 # IVG
 
 [未来如果人类技术已经可以不需要交合就可以生孩子，男女双方有没有可能发动性别灭绝战争？](https://www.zhihu.com/question/399611313/answer/1281809536)

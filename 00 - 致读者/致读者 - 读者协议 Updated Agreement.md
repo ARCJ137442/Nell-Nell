@@ -1,4 +1,4 @@
-#status-已阅/1 
+#status/已阅/1 
 # 读者协议 Updated Agreement
 
 [你有哪些话想对知乎上关注你的人说？](https://www.zhihu.com/question/264373660/answer/1812786628)

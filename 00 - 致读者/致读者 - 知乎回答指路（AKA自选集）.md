@@ -1,4 +1,4 @@
-#status-已阅/1
+#status/已阅/1
 # 知乎回答指路（AKA自选集）
 
 [知乎回答指路（AKA自选集）](https://zhuanlan.zhihu.com/p/593309417)
