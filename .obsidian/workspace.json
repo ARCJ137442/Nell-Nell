@@ -149,12 +149,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - “是什么”系列/脱口秀艺术.md",
+                "file": "沙海拾金/补强.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "脱口秀艺术"
+              "title": "补强"
             }
           }
         ],
@@ -189,7 +189,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "说法并不准确。如果非要说脱口秀是“冒犯的艺术”，那",
+                "query": "反思",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - “是什么”系列/脱口秀艺术.md",
+                "file": "沙海拾金/补强.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "脱口秀艺术 的反向链接列表"
+              "title": "补强 的反向链接列表"
             }
           },
           {
@@ -303,10 +303,14 @@
   },
   "active": "75025f195e959011",
   "lastOpenFiles": [
+    "03 - “如何看待”系列/社会的残酷.md",
+    "01 - “是什么”系列/奴性.md",
+    "02 - “怎么办”系列/克服自卑.md",
+    "03 - “如何看待”系列/被滥用的权柄.md",
+    "01 - “是什么”系列/脱口秀艺术.md",
     "02 - “怎么办”系列/身世飘零.md",
     "09 - 简答/知识付费.md",
     "02 - “怎么办”系列/大学.md",
-    "01 - “是什么”系列/脱口秀艺术.md",
     "02 - “怎么办”系列/大学之后.md",
     "02 - “怎么办”系列/义教.md",
     "03 - “如何看待”系列/职场霸凌.md",
@@ -325,10 +329,6 @@
     "03 - “如何看待”系列/新闻价值.md",
     "04 - “好好活着”系列/工作的意义.md",
     "03 - “如何看待”系列/不受待见的老实人.md",
-    "03 - “如何看待”系列/Racial profiling.md",
-    "00 - 致读者/致读者 - 读者协议 Updated Agreement.md",
-    "04 - “好好活着”系列/科研人员的Work&Life.md",
-    "02 - “怎么办”系列/研究生与导师.md",
     "temp.test.ipynb",
     "tempCodeRunnerFile.julia",
     "“是什么”系列",
