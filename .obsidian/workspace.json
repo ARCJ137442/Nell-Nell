@@ -149,12 +149,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "沙海拾金/补强.md",
+                "file": "03 - “如何看待”系列/飞天意面教.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "补强"
+              "title": "飞天意面教"
             }
           }
         ],
@@ -189,7 +189,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "反思",
+                "query": "认错",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "沙海拾金/补强.md",
+                "file": "03 - “如何看待”系列/飞天意面教.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "补强 的反向链接列表"
+              "title": "飞天意面教 的反向链接列表"
             }
           },
           {
@@ -301,8 +301,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75025f195e959011",
+  "active": "cc98ae3a7378d96c",
   "lastOpenFiles": [
+    "01 - “是什么”系列/反思.md",
+    "沙海拾金/补强.md",
     "03 - “如何看待”系列/社会的残酷.md",
     "01 - “是什么”系列/奴性.md",
     "02 - “怎么办”系列/克服自卑.md",
@@ -327,8 +329,6 @@
     "08 - 推荐/仰望星空.md",
     "01 - “是什么”系列/见世面.md",
     "03 - “如何看待”系列/新闻价值.md",
-    "04 - “好好活着”系列/工作的意义.md",
-    "03 - “如何看待”系列/不受待见的老实人.md",
     "temp.test.ipynb",
     "tempCodeRunnerFile.julia",
     "“是什么”系列",
