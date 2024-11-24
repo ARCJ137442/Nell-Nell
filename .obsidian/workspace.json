@@ -189,7 +189,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "认错",
+                "query": "父母 传记",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -303,6 +303,8 @@
   },
   "active": "cc98ae3a7378d96c",
   "lastOpenFiles": [
+    "02 - “怎么办”系列/原谅父母.md",
+    "03 - “如何看待”系列/飞天意面教.md",
     "01 - “是什么”系列/反思.md",
     "沙海拾金/补强.md",
     "03 - “如何看待”系列/社会的残酷.md",
@@ -327,8 +329,6 @@
     "03 - “如何看待”系列/母系社会.md",
     "01 - “是什么”系列/人类学.md",
     "08 - 推荐/仰望星空.md",
-    "01 - “是什么”系列/见世面.md",
-    "03 - “如何看待”系列/新闻价值.md",
     "temp.test.ipynb",
     "tempCodeRunnerFile.julia",
     "“是什么”系列",
